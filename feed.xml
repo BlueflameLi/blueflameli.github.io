@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Blueflame的小站</title>
+        <link>blueflameli.github.io/</link>
+        <description>一个二次元技术宅</description>
+        <lastBuildDate>Tue, 14 Jan 2025 07:46:16 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>Blueflame的小站</title>
+            <url>https://img.blueflame.org.cn/images/2021/02/17/fae6fb3481ef.jpg</url>
+            <link>blueflameli.github.io/</link>
+        </image>
+        <copyright>CC BY-NC-SA 4.0 2025 © Blueflame</copyright>
+        <atom:link href="blueflameli.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello, Valaxy!]]></title>
+            <link>blueflameli.github.io/posts/hello-valaxy</link>
+            <guid>blueflameli.github.io/posts/hello-valaxy</guid>
+            <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>Valaxy</h2>
+<p>Next Generation Static Blog Framework.</p>
+<p>Write your first post!</p>
+<h2>Usage</h2>
+<p>Modify `valaxy</p>
+<br/><p>访问 <a href="blueflameli.github.io/posts/hello-valaxy" target="_blank">blueflameli.github.io/posts/hello-valaxy</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (Blueflame)</author>
+        </item>
+    </channel>
+</rss>

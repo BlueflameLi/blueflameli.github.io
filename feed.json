@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Blueflame的小站",
+    "home_page_url": "blueflameli.github.io/",
+    "feed_url": "blueflameli.github.io/feed.json",
+    "description": "一个二次元技术宅",
+    "icon": "https://img.blueflame.org.cn/images/2021/02/17/fae6fb3481ef.jpg",
+    "author": {
+        "name": "Blueflame",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "",
+            "content_html": "<h2>Valaxy</h2>\n<p>Next Generation Static Blog Framework.</p>\n<p>Write your first post!</p>\n<h2>Usage</h2>\n<p>Modify `valaxy</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/hello-valaxy\" target=\"_blank\">blueflameli.github.io/posts/hello-valaxy</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/hello-valaxy",
+            "title": "Hello, Valaxy!",
+            "date_modified": "2022-04-01T00:00:00.000Z",
+            "date_published": "2022-04-01T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+import{I as e,K as o,O as l,S as n}from"./framework.DjuBL7GU.js";const t={},a={class:"mashiro-dots"};function _(c,s){return o(),l("div",a,s[0]||(s[0]=[n("span",null,null,-1),n("span",null,null,-1),n("span",null,null,-1)]))}const p=e(t,[["render",_],["__scopeId","data-v-3cd57144"]]);export{p as _};
