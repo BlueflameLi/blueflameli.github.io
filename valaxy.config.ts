@@ -1,6 +1,7 @@
 import type { ThemeUserConfig } from 'valaxy-theme-sakura'
 import { defineValaxyConfig } from 'valaxy'
 import { addonMeting } from 'valaxy-addon-meting'
+import { addonBangumi } from 'valaxy-addon-bangumi'
 import pkg from './package.json'
 // add icons what you will need
 const safelist = [
@@ -217,6 +218,11 @@ export default defineValaxyConfig<ThemeUserConfig>({
         animationIn: true,
         lyricHidden: true,
       },
+    }),
+    addonBangumi({
+      api: 'https://yi_xiao_jiu-bangumi.web.val.run',
+      bilibiliUid: '12570204',
+      bgmUid: '859746',
     }),
   ]
 })
