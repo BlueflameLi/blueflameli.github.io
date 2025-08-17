@@ -28,7 +28,649 @@ declare module 'vue-router/auto-routes' {
     '/categories/': RouteRecordInfo<'/categories/', '/categories', Record<never, never>, Record<never, never>>,
     '/links/': RouteRecordInfo<'/links/', '/links', Record<never, never>, Record<never, never>>,
     '/page/[page]': RouteRecordInfo<'/page/[page]', '/page/:page', { page: ParamValue<true> }, { page: ParamValue<false> }>,
-    '/posts/hello-valaxy': RouteRecordInfo<'/posts/hello-valaxy', '/posts/hello-valaxy', Record<never, never>, Record<never, never>>,
+    '/posts/2019-11-29-92': RouteRecordInfo<'/posts/2019-11-29-92', '/posts/2019-11-29-92', Record<never, never>, Record<never, never>>,
+    '/posts/2019-11-29-97': RouteRecordInfo<'/posts/2019-11-29-97', '/posts/2019-11-29-97', Record<never, never>, Record<never, never>>,
+    '/posts/2019-12-18-112': RouteRecordInfo<'/posts/2019-12-18-112', '/posts/2019-12-18-112', Record<never, never>, Record<never, never>>,
+    '/posts/2020-01-14-140': RouteRecordInfo<'/posts/2020-01-14-140', '/posts/2020-01-14-140', Record<never, never>, Record<never, never>>,
+    '/posts/2020-01-14-153': RouteRecordInfo<'/posts/2020-01-14-153', '/posts/2020-01-14-153', Record<never, never>, Record<never, never>>,
+    '/posts/2020-01-15-160': RouteRecordInfo<'/posts/2020-01-15-160', '/posts/2020-01-15-160', Record<never, never>, Record<never, never>>,
+    '/posts/2020-01-15-165': RouteRecordInfo<'/posts/2020-01-15-165', '/posts/2020-01-15-165', Record<never, never>, Record<never, never>>,
+    '/posts/2020-01-17-178': RouteRecordInfo<'/posts/2020-01-17-178', '/posts/2020-01-17-178', Record<never, never>, Record<never, never>>,
+    '/posts/2020-01-18-179': RouteRecordInfo<'/posts/2020-01-18-179', '/posts/2020-01-18-179', Record<never, never>, Record<never, never>>,
+    '/posts/2020-01-18-180': RouteRecordInfo<'/posts/2020-01-18-180', '/posts/2020-01-18-180', Record<never, never>, Record<never, never>>,
+    '/posts/2020-01-20-181': RouteRecordInfo<'/posts/2020-01-20-181', '/posts/2020-01-20-181', Record<never, never>, Record<never, never>>,
+    '/posts/2020-01-20-182': RouteRecordInfo<'/posts/2020-01-20-182', '/posts/2020-01-20-182', Record<never, never>, Record<never, never>>,
+    '/posts/2020-01-20-185': RouteRecordInfo<'/posts/2020-01-20-185', '/posts/2020-01-20-185', Record<never, never>, Record<never, never>>,
+    '/posts/2020-01-20-186': RouteRecordInfo<'/posts/2020-01-20-186', '/posts/2020-01-20-186', Record<never, never>, Record<never, never>>,
+    '/posts/2020-01-20-187': RouteRecordInfo<'/posts/2020-01-20-187', '/posts/2020-01-20-187', Record<never, never>, Record<never, never>>,
+    '/posts/2020-01-20-188': RouteRecordInfo<'/posts/2020-01-20-188', '/posts/2020-01-20-188', Record<never, never>, Record<never, never>>,
+    '/posts/2020-01-21-192': RouteRecordInfo<'/posts/2020-01-21-192', '/posts/2020-01-21-192', Record<never, never>, Record<never, never>>,
+    '/posts/2020-01-21-193': RouteRecordInfo<'/posts/2020-01-21-193', '/posts/2020-01-21-193', Record<never, never>, Record<never, never>>,
+    '/posts/2020-01-21-194': RouteRecordInfo<'/posts/2020-01-21-194', '/posts/2020-01-21-194', Record<never, never>, Record<never, never>>,
+    '/posts/2020-01-22-195': RouteRecordInfo<'/posts/2020-01-22-195', '/posts/2020-01-22-195', Record<never, never>, Record<never, never>>,
+    '/posts/2020-01-22-196': RouteRecordInfo<'/posts/2020-01-22-196', '/posts/2020-01-22-196', Record<never, never>, Record<never, never>>,
+    '/posts/2020-01-22-197': RouteRecordInfo<'/posts/2020-01-22-197', '/posts/2020-01-22-197', Record<never, never>, Record<never, never>>,
+    '/posts/2020-01-23-198': RouteRecordInfo<'/posts/2020-01-23-198', '/posts/2020-01-23-198', Record<never, never>, Record<never, never>>,
+    '/posts/2020-01-23-199': RouteRecordInfo<'/posts/2020-01-23-199', '/posts/2020-01-23-199', Record<never, never>, Record<never, never>>,
+    '/posts/2020-01-23-200': RouteRecordInfo<'/posts/2020-01-23-200', '/posts/2020-01-23-200', Record<never, never>, Record<never, never>>,
+    '/posts/2020-01-25-201': RouteRecordInfo<'/posts/2020-01-25-201', '/posts/2020-01-25-201', Record<never, never>, Record<never, never>>,
+    '/posts/2020-01-25-203': RouteRecordInfo<'/posts/2020-01-25-203', '/posts/2020-01-25-203', Record<never, never>, Record<never, never>>,
+    '/posts/2020-01-25-204': RouteRecordInfo<'/posts/2020-01-25-204', '/posts/2020-01-25-204', Record<never, never>, Record<never, never>>,
+    '/posts/2020-01-25-206': RouteRecordInfo<'/posts/2020-01-25-206', '/posts/2020-01-25-206', Record<never, never>, Record<never, never>>,
+    '/posts/2020-01-26-207': RouteRecordInfo<'/posts/2020-01-26-207', '/posts/2020-01-26-207', Record<never, never>, Record<never, never>>,
+    '/posts/2020-01-26-208': RouteRecordInfo<'/posts/2020-01-26-208', '/posts/2020-01-26-208', Record<never, never>, Record<never, never>>,
+    '/posts/2020-01-26-209': RouteRecordInfo<'/posts/2020-01-26-209', '/posts/2020-01-26-209', Record<never, never>, Record<never, never>>,
+    '/posts/2020-01-27-210': RouteRecordInfo<'/posts/2020-01-27-210', '/posts/2020-01-27-210', Record<never, never>, Record<never, never>>,
+    '/posts/2020-01-27-211': RouteRecordInfo<'/posts/2020-01-27-211', '/posts/2020-01-27-211', Record<never, never>, Record<never, never>>,
+    '/posts/2020-01-27-212': RouteRecordInfo<'/posts/2020-01-27-212', '/posts/2020-01-27-212', Record<never, never>, Record<never, never>>,
+    '/posts/2020-01-28-213': RouteRecordInfo<'/posts/2020-01-28-213', '/posts/2020-01-28-213', Record<never, never>, Record<never, never>>,
+    '/posts/2020-01-29-215': RouteRecordInfo<'/posts/2020-01-29-215', '/posts/2020-01-29-215', Record<never, never>, Record<never, never>>,
+    '/posts/2020-01-29-217': RouteRecordInfo<'/posts/2020-01-29-217', '/posts/2020-01-29-217', Record<never, never>, Record<never, never>>,
+    '/posts/2020-01-29-218': RouteRecordInfo<'/posts/2020-01-29-218', '/posts/2020-01-29-218', Record<never, never>, Record<never, never>>,
+    '/posts/2020-01-30-219': RouteRecordInfo<'/posts/2020-01-30-219', '/posts/2020-01-30-219', Record<never, never>, Record<never, never>>,
+    '/posts/2020-01-30-220': RouteRecordInfo<'/posts/2020-01-30-220', '/posts/2020-01-30-220', Record<never, never>, Record<never, never>>,
+    '/posts/2020-01-30-221': RouteRecordInfo<'/posts/2020-01-30-221', '/posts/2020-01-30-221', Record<never, never>, Record<never, never>>,
+    '/posts/2020-02-08-223': RouteRecordInfo<'/posts/2020-02-08-223', '/posts/2020-02-08-223', Record<never, never>, Record<never, never>>,
+    '/posts/2020-02-09-224': RouteRecordInfo<'/posts/2020-02-09-224', '/posts/2020-02-09-224', Record<never, never>, Record<never, never>>,
+    '/posts/2020-02-10-227': RouteRecordInfo<'/posts/2020-02-10-227', '/posts/2020-02-10-227', Record<never, never>, Record<never, never>>,
+    '/posts/2020-02-11-229': RouteRecordInfo<'/posts/2020-02-11-229', '/posts/2020-02-11-229', Record<never, never>, Record<never, never>>,
+    '/posts/2020-02-11-230': RouteRecordInfo<'/posts/2020-02-11-230', '/posts/2020-02-11-230', Record<never, never>, Record<never, never>>,
+    '/posts/2020-02-12-233': RouteRecordInfo<'/posts/2020-02-12-233', '/posts/2020-02-12-233', Record<never, never>, Record<never, never>>,
+    '/posts/2020-02-12-234': RouteRecordInfo<'/posts/2020-02-12-234', '/posts/2020-02-12-234', Record<never, never>, Record<never, never>>,
+    '/posts/2020-02-19-236': RouteRecordInfo<'/posts/2020-02-19-236', '/posts/2020-02-19-236', Record<never, never>, Record<never, never>>,
+    '/posts/2020-02-19-266': RouteRecordInfo<'/posts/2020-02-19-266', '/posts/2020-02-19-266', Record<never, never>, Record<never, never>>,
+    '/posts/2020-02-19-271': RouteRecordInfo<'/posts/2020-02-19-271', '/posts/2020-02-19-271', Record<never, never>, Record<never, never>>,
+    '/posts/2020-02-20-295': RouteRecordInfo<'/posts/2020-02-20-295', '/posts/2020-02-20-295', Record<never, never>, Record<never, never>>,
+    '/posts/2020-02-21-296': RouteRecordInfo<'/posts/2020-02-21-296', '/posts/2020-02-21-296', Record<never, never>, Record<never, never>>,
+    '/posts/2020-02-22-297': RouteRecordInfo<'/posts/2020-02-22-297', '/posts/2020-02-22-297', Record<never, never>, Record<never, never>>,
+    '/posts/2020-02-22-298': RouteRecordInfo<'/posts/2020-02-22-298', '/posts/2020-02-22-298', Record<never, never>, Record<never, never>>,
+    '/posts/2020-02-23-300': RouteRecordInfo<'/posts/2020-02-23-300', '/posts/2020-02-23-300', Record<never, never>, Record<never, never>>,
+    '/posts/2020-02-26-301': RouteRecordInfo<'/posts/2020-02-26-301', '/posts/2020-02-26-301', Record<never, never>, Record<never, never>>,
+    '/posts/2020-02-27-302': RouteRecordInfo<'/posts/2020-02-27-302', '/posts/2020-02-27-302', Record<never, never>, Record<never, never>>,
+    '/posts/2020-02-27-303': RouteRecordInfo<'/posts/2020-02-27-303', '/posts/2020-02-27-303', Record<never, never>, Record<never, never>>,
+    '/posts/2020-03-04-304': RouteRecordInfo<'/posts/2020-03-04-304', '/posts/2020-03-04-304', Record<never, never>, Record<never, never>>,
+    '/posts/2020-03-07-305': RouteRecordInfo<'/posts/2020-03-07-305', '/posts/2020-03-07-305', Record<never, never>, Record<never, never>>,
+    '/posts/2020-03-19-308': RouteRecordInfo<'/posts/2020-03-19-308', '/posts/2020-03-19-308', Record<never, never>, Record<never, never>>,
+    '/posts/2020-03-21-309': RouteRecordInfo<'/posts/2020-03-21-309', '/posts/2020-03-21-309', Record<never, never>, Record<never, never>>,
+    '/posts/2020-03-22-310': RouteRecordInfo<'/posts/2020-03-22-310', '/posts/2020-03-22-310', Record<never, never>, Record<never, never>>,
+    '/posts/2020-04-04-317': RouteRecordInfo<'/posts/2020-04-04-317', '/posts/2020-04-04-317', Record<never, never>, Record<never, never>>,
+    '/posts/2020-04-11-329': RouteRecordInfo<'/posts/2020-04-11-329', '/posts/2020-04-11-329', Record<never, never>, Record<never, never>>,
+    '/posts/2020-04-12-330': RouteRecordInfo<'/posts/2020-04-12-330', '/posts/2020-04-12-330', Record<never, never>, Record<never, never>>,
+    '/posts/2020-04-12-331': RouteRecordInfo<'/posts/2020-04-12-331', '/posts/2020-04-12-331', Record<never, never>, Record<never, never>>,
+    '/posts/2020-05-03-333': RouteRecordInfo<'/posts/2020-05-03-333', '/posts/2020-05-03-333', Record<never, never>, Record<never, never>>,
+    '/posts/2020-06-09-337': RouteRecordInfo<'/posts/2020-06-09-337', '/posts/2020-06-09-337', Record<never, never>, Record<never, never>>,
+    '/posts/2020-06-13-344': RouteRecordInfo<'/posts/2020-06-13-344', '/posts/2020-06-13-344', Record<never, never>, Record<never, never>>,
+    '/posts/2020-06-14-346': RouteRecordInfo<'/posts/2020-06-14-346', '/posts/2020-06-14-346', Record<never, never>, Record<never, never>>,
+    '/posts/2020-06-14-348': RouteRecordInfo<'/posts/2020-06-14-348', '/posts/2020-06-14-348', Record<never, never>, Record<never, never>>,
+    '/posts/2020-06-15-357': RouteRecordInfo<'/posts/2020-06-15-357', '/posts/2020-06-15-357', Record<never, never>, Record<never, never>>,
+    '/posts/2020-07-19-358': RouteRecordInfo<'/posts/2020-07-19-358', '/posts/2020-07-19-358', Record<never, never>, Record<never, never>>,
+    '/posts/2020-07-28-372': RouteRecordInfo<'/posts/2020-07-28-372', '/posts/2020-07-28-372', Record<never, never>, Record<never, never>>,
+    '/posts/2020-07-29-381': RouteRecordInfo<'/posts/2020-07-29-381', '/posts/2020-07-29-381', Record<never, never>, Record<never, never>>,
+    '/posts/2020-08-07-397': RouteRecordInfo<'/posts/2020-08-07-397', '/posts/2020-08-07-397', Record<never, never>, Record<never, never>>,
+    '/posts/2020-10-10-410': RouteRecordInfo<'/posts/2020-10-10-410', '/posts/2020-10-10-410', Record<never, never>, Record<never, never>>,
+    '/posts/2020-10-16-416': RouteRecordInfo<'/posts/2020-10-16-416', '/posts/2020-10-16-416', Record<never, never>, Record<never, never>>,
+    '/posts/2020-10-17-417': RouteRecordInfo<'/posts/2020-10-17-417', '/posts/2020-10-17-417', Record<never, never>, Record<never, never>>,
+    '/posts/2021-02-28-419': RouteRecordInfo<'/posts/2021-02-28-419', '/posts/2021-02-28-419', Record<never, never>, Record<never, never>>,
+    '/posts/2021-02-28-420': RouteRecordInfo<'/posts/2021-02-28-420', '/posts/2021-02-28-420', Record<never, never>, Record<never, never>>,
+    '/posts/2021-02-28-421': RouteRecordInfo<'/posts/2021-02-28-421', '/posts/2021-02-28-421', Record<never, never>, Record<never, never>>,
+    '/posts/2021-07-04-422': RouteRecordInfo<'/posts/2021-07-04-422', '/posts/2021-07-04-422', Record<never, never>, Record<never, never>>,
+    '/posts/2021-07-19-423': RouteRecordInfo<'/posts/2021-07-19-423', '/posts/2021-07-19-423', Record<never, never>, Record<never, never>>,
+    '/posts/2021-07-26-424': RouteRecordInfo<'/posts/2021-07-26-424', '/posts/2021-07-26-424', Record<never, never>, Record<never, never>>,
+    '/posts/2021-08-02-425': RouteRecordInfo<'/posts/2021-08-02-425', '/posts/2021-08-02-425', Record<never, never>, Record<never, never>>,
+    '/posts/2021-08-09-426': RouteRecordInfo<'/posts/2021-08-09-426', '/posts/2021-08-09-426', Record<never, never>, Record<never, never>>,
+    '/posts/2021-08-23-427': RouteRecordInfo<'/posts/2021-08-23-427', '/posts/2021-08-23-427', Record<never, never>, Record<never, never>>,
+    '/posts/2021-09-29-428': RouteRecordInfo<'/posts/2021-09-29-428', '/posts/2021-09-29-428', Record<never, never>, Record<never, never>>,
+    '/posts/2021-11-23-429': RouteRecordInfo<'/posts/2021-11-23-429', '/posts/2021-11-23-429', Record<never, never>, Record<never, never>>,
+    '/posts/2021-12-08-430': RouteRecordInfo<'/posts/2021-12-08-430', '/posts/2021-12-08-430', Record<never, never>, Record<never, never>>,
+    '/posts/2021-12-15-431': RouteRecordInfo<'/posts/2021-12-15-431', '/posts/2021-12-15-431', Record<never, never>, Record<never, never>>,
+    '/posts/2022-07-02-432': RouteRecordInfo<'/posts/2022-07-02-432', '/posts/2022-07-02-432', Record<never, never>, Record<never, never>>,
+    '/posts/2022-07-02-433': RouteRecordInfo<'/posts/2022-07-02-433', '/posts/2022-07-02-433', Record<never, never>, Record<never, never>>,
+    '/posts/2022-07-02-434': RouteRecordInfo<'/posts/2022-07-02-434', '/posts/2022-07-02-434', Record<never, never>, Record<never, never>>,
+    '/posts/2022-07-06-435': RouteRecordInfo<'/posts/2022-07-06-435', '/posts/2022-07-06-435', Record<never, never>, Record<never, never>>,
+    '/posts/2022-07-07-436': RouteRecordInfo<'/posts/2022-07-07-436', '/posts/2022-07-07-436', Record<never, never>, Record<never, never>>,
+    '/posts/2022-07-09-437': RouteRecordInfo<'/posts/2022-07-09-437', '/posts/2022-07-09-437', Record<never, never>, Record<never, never>>,
+    '/posts/2022-07-28-438': RouteRecordInfo<'/posts/2022-07-28-438', '/posts/2022-07-28-438', Record<never, never>, Record<never, never>>,
+    '/posts/2022-07-31-439': RouteRecordInfo<'/posts/2022-07-31-439', '/posts/2022-07-31-439', Record<never, never>, Record<never, never>>,
+    '/posts/2024-04-06-442': RouteRecordInfo<'/posts/2024-04-06-442', '/posts/2024-04-06-442', Record<never, never>, Record<never, never>>,
+    '/posts/2024-04-07-443': RouteRecordInfo<'/posts/2024-04-07-443', '/posts/2024-04-07-443', Record<never, never>, Record<never, never>>,
+    '/posts/2025-03-06-444': RouteRecordInfo<'/posts/2025-03-06-444', '/posts/2025-03-06-444', Record<never, never>, Record<never, never>>,
+    '/posts/2025-03-06-445': RouteRecordInfo<'/posts/2025-03-06-445', '/posts/2025-03-06-445', Record<never, never>, Record<never, never>>,
+    '/posts/2025-03-06-446': RouteRecordInfo<'/posts/2025-03-06-446', '/posts/2025-03-06-446', Record<never, never>, Record<never, never>>,
+    '/posts/2025-03-06-447': RouteRecordInfo<'/posts/2025-03-06-447', '/posts/2025-03-06-447', Record<never, never>, Record<never, never>>,
+    '/posts/2025-03-14-448': RouteRecordInfo<'/posts/2025-03-14-448', '/posts/2025-03-14-448', Record<never, never>, Record<never, never>>,
+    '/posts/2025-05-01-449': RouteRecordInfo<'/posts/2025-05-01-449', '/posts/2025-05-01-449', Record<never, never>, Record<never, never>>,
+    '/posts/2025-05-02-450': RouteRecordInfo<'/posts/2025-05-02-450', '/posts/2025-05-02-450', Record<never, never>, Record<never, never>>,
+    '/posts/2025-05-03-451': RouteRecordInfo<'/posts/2025-05-03-451', '/posts/2025-05-03-451', Record<never, never>, Record<never, never>>,
+    '/posts/2025-05-04-452': RouteRecordInfo<'/posts/2025-05-04-452', '/posts/2025-05-04-452', Record<never, never>, Record<never, never>>,
+    '/posts/2025-05-05-453': RouteRecordInfo<'/posts/2025-05-05-453', '/posts/2025-05-05-453', Record<never, never>, Record<never, never>>,
     '/tags/': RouteRecordInfo<'/tags/', '/tags', Record<never, never>, Record<never, never>>,
   }
+
+  /**
+   * Route file to route info map by unplugin-vue-router.
+   * Used by the volar plugin to automatically type useRoute()
+   *
+   * Each key is a file path relative to the project root with 2 properties:
+   * - routes: union of route names of the possible routes when in this page (passed to useRoute<...>())
+   * - views: names of nested views (can be passed to <RouterView name="...">)
+   *
+   * @internal
+   */
+  export interface _RouteFileInfoMap {
+    'node_modules/.pnpm/valaxy-theme-sakura@0.10.1_@nuxt+kit@3.18.1_valaxy-addon-hitokoto@0.0.1_valaxy-addon-vercount_ezxall4yqne4qdvqxmunrvr43a/node_modules/valaxy-theme-sakura/pages/index.vue': {
+      routes: '/'
+      views: never
+    }
+    'node_modules/.pnpm/valaxy@0.26.3_@babel+parser@7.28.3_@nuxt+kit@3.18.1_@types+markdown-it@14.1.2_@types+node@24._ujg6iakzbjpczj4peexoeodjom/node_modules/valaxy/client/pages/[...path].vue': {
+      routes: '/[...path]'
+      views: never
+    }
+    'pages/404.md': {
+      routes: '/404'
+      views: never
+    }
+    'pages/about/index.md': {
+      routes: '/about/'
+      views: never
+    }
+    'pages/about/site.md': {
+      routes: '/about/site'
+      views: never
+    }
+    'pages/anime/index.md': {
+      routes: '/anime/'
+      views: never
+    }
+    'pages/archives/index.md': {
+      routes: '/archives/'
+      views: never
+    }
+    'pages/categories/index.md': {
+      routes: '/categories/'
+      views: never
+    }
+    'pages/links/index.md': {
+      routes: '/links/'
+      views: never
+    }
+    'node_modules/.pnpm/valaxy-theme-sakura@0.10.1_@nuxt+kit@3.18.1_valaxy-addon-hitokoto@0.0.1_valaxy-addon-vercount_ezxall4yqne4qdvqxmunrvr43a/node_modules/valaxy-theme-sakura/pages/page/[page].vue': {
+      routes: '/page/[page]'
+      views: never
+    }
+    'pages/posts/2019-11-29-92.md': {
+      routes: '/posts/2019-11-29-92'
+      views: never
+    }
+    'pages/posts/2019-11-29-97.md': {
+      routes: '/posts/2019-11-29-97'
+      views: never
+    }
+    'pages/posts/2019-12-18-112.md': {
+      routes: '/posts/2019-12-18-112'
+      views: never
+    }
+    'pages/posts/2020-01-14-140.md': {
+      routes: '/posts/2020-01-14-140'
+      views: never
+    }
+    'pages/posts/2020-01-14-153.md': {
+      routes: '/posts/2020-01-14-153'
+      views: never
+    }
+    'pages/posts/2020-01-15-160.md': {
+      routes: '/posts/2020-01-15-160'
+      views: never
+    }
+    'pages/posts/2020-01-15-165.md': {
+      routes: '/posts/2020-01-15-165'
+      views: never
+    }
+    'pages/posts/2020-01-17-178.md': {
+      routes: '/posts/2020-01-17-178'
+      views: never
+    }
+    'pages/posts/2020-01-18-179.md': {
+      routes: '/posts/2020-01-18-179'
+      views: never
+    }
+    'pages/posts/2020-01-18-180.md': {
+      routes: '/posts/2020-01-18-180'
+      views: never
+    }
+    'pages/posts/2020-01-20-181.md': {
+      routes: '/posts/2020-01-20-181'
+      views: never
+    }
+    'pages/posts/2020-01-20-182.md': {
+      routes: '/posts/2020-01-20-182'
+      views: never
+    }
+    'pages/posts/2020-01-20-185.md': {
+      routes: '/posts/2020-01-20-185'
+      views: never
+    }
+    'pages/posts/2020-01-20-186.md': {
+      routes: '/posts/2020-01-20-186'
+      views: never
+    }
+    'pages/posts/2020-01-20-187.md': {
+      routes: '/posts/2020-01-20-187'
+      views: never
+    }
+    'pages/posts/2020-01-20-188.md': {
+      routes: '/posts/2020-01-20-188'
+      views: never
+    }
+    'pages/posts/2020-01-21-192.md': {
+      routes: '/posts/2020-01-21-192'
+      views: never
+    }
+    'pages/posts/2020-01-21-193.md': {
+      routes: '/posts/2020-01-21-193'
+      views: never
+    }
+    'pages/posts/2020-01-21-194.md': {
+      routes: '/posts/2020-01-21-194'
+      views: never
+    }
+    'pages/posts/2020-01-22-195.md': {
+      routes: '/posts/2020-01-22-195'
+      views: never
+    }
+    'pages/posts/2020-01-22-196.md': {
+      routes: '/posts/2020-01-22-196'
+      views: never
+    }
+    'pages/posts/2020-01-22-197.md': {
+      routes: '/posts/2020-01-22-197'
+      views: never
+    }
+    'pages/posts/2020-01-23-198.md': {
+      routes: '/posts/2020-01-23-198'
+      views: never
+    }
+    'pages/posts/2020-01-23-199.md': {
+      routes: '/posts/2020-01-23-199'
+      views: never
+    }
+    'pages/posts/2020-01-23-200.md': {
+      routes: '/posts/2020-01-23-200'
+      views: never
+    }
+    'pages/posts/2020-01-25-201.md': {
+      routes: '/posts/2020-01-25-201'
+      views: never
+    }
+    'pages/posts/2020-01-25-203.md': {
+      routes: '/posts/2020-01-25-203'
+      views: never
+    }
+    'pages/posts/2020-01-25-204.md': {
+      routes: '/posts/2020-01-25-204'
+      views: never
+    }
+    'pages/posts/2020-01-25-206.md': {
+      routes: '/posts/2020-01-25-206'
+      views: never
+    }
+    'pages/posts/2020-01-26-207.md': {
+      routes: '/posts/2020-01-26-207'
+      views: never
+    }
+    'pages/posts/2020-01-26-208.md': {
+      routes: '/posts/2020-01-26-208'
+      views: never
+    }
+    'pages/posts/2020-01-26-209.md': {
+      routes: '/posts/2020-01-26-209'
+      views: never
+    }
+    'pages/posts/2020-01-27-210.md': {
+      routes: '/posts/2020-01-27-210'
+      views: never
+    }
+    'pages/posts/2020-01-27-211.md': {
+      routes: '/posts/2020-01-27-211'
+      views: never
+    }
+    'pages/posts/2020-01-27-212.md': {
+      routes: '/posts/2020-01-27-212'
+      views: never
+    }
+    'pages/posts/2020-01-28-213.md': {
+      routes: '/posts/2020-01-28-213'
+      views: never
+    }
+    'pages/posts/2020-01-29-215.md': {
+      routes: '/posts/2020-01-29-215'
+      views: never
+    }
+    'pages/posts/2020-01-29-217.md': {
+      routes: '/posts/2020-01-29-217'
+      views: never
+    }
+    'pages/posts/2020-01-29-218.md': {
+      routes: '/posts/2020-01-29-218'
+      views: never
+    }
+    'pages/posts/2020-01-30-219.md': {
+      routes: '/posts/2020-01-30-219'
+      views: never
+    }
+    'pages/posts/2020-01-30-220.md': {
+      routes: '/posts/2020-01-30-220'
+      views: never
+    }
+    'pages/posts/2020-01-30-221.md': {
+      routes: '/posts/2020-01-30-221'
+      views: never
+    }
+    'pages/posts/2020-02-08-223.md': {
+      routes: '/posts/2020-02-08-223'
+      views: never
+    }
+    'pages/posts/2020-02-09-224.md': {
+      routes: '/posts/2020-02-09-224'
+      views: never
+    }
+    'pages/posts/2020-02-10-227.md': {
+      routes: '/posts/2020-02-10-227'
+      views: never
+    }
+    'pages/posts/2020-02-11-229.md': {
+      routes: '/posts/2020-02-11-229'
+      views: never
+    }
+    'pages/posts/2020-02-11-230.md': {
+      routes: '/posts/2020-02-11-230'
+      views: never
+    }
+    'pages/posts/2020-02-12-233.md': {
+      routes: '/posts/2020-02-12-233'
+      views: never
+    }
+    'pages/posts/2020-02-12-234.md': {
+      routes: '/posts/2020-02-12-234'
+      views: never
+    }
+    'pages/posts/2020-02-19-236.md': {
+      routes: '/posts/2020-02-19-236'
+      views: never
+    }
+    'pages/posts/2020-02-19-266.md': {
+      routes: '/posts/2020-02-19-266'
+      views: never
+    }
+    'pages/posts/2020-02-19-271.md': {
+      routes: '/posts/2020-02-19-271'
+      views: never
+    }
+    'pages/posts/2020-02-20-295.md': {
+      routes: '/posts/2020-02-20-295'
+      views: never
+    }
+    'pages/posts/2020-02-21-296.md': {
+      routes: '/posts/2020-02-21-296'
+      views: never
+    }
+    'pages/posts/2020-02-22-297.md': {
+      routes: '/posts/2020-02-22-297'
+      views: never
+    }
+    'pages/posts/2020-02-22-298.md': {
+      routes: '/posts/2020-02-22-298'
+      views: never
+    }
+    'pages/posts/2020-02-23-300.md': {
+      routes: '/posts/2020-02-23-300'
+      views: never
+    }
+    'pages/posts/2020-02-26-301.md': {
+      routes: '/posts/2020-02-26-301'
+      views: never
+    }
+    'pages/posts/2020-02-27-302.md': {
+      routes: '/posts/2020-02-27-302'
+      views: never
+    }
+    'pages/posts/2020-02-27-303.md': {
+      routes: '/posts/2020-02-27-303'
+      views: never
+    }
+    'pages/posts/2020-03-04-304.md': {
+      routes: '/posts/2020-03-04-304'
+      views: never
+    }
+    'pages/posts/2020-03-07-305.md': {
+      routes: '/posts/2020-03-07-305'
+      views: never
+    }
+    'pages/posts/2020-03-19-308.md': {
+      routes: '/posts/2020-03-19-308'
+      views: never
+    }
+    'pages/posts/2020-03-21-309.md': {
+      routes: '/posts/2020-03-21-309'
+      views: never
+    }
+    'pages/posts/2020-03-22-310.md': {
+      routes: '/posts/2020-03-22-310'
+      views: never
+    }
+    'pages/posts/2020-04-04-317.md': {
+      routes: '/posts/2020-04-04-317'
+      views: never
+    }
+    'pages/posts/2020-04-11-329.md': {
+      routes: '/posts/2020-04-11-329'
+      views: never
+    }
+    'pages/posts/2020-04-12-330.md': {
+      routes: '/posts/2020-04-12-330'
+      views: never
+    }
+    'pages/posts/2020-04-12-331.md': {
+      routes: '/posts/2020-04-12-331'
+      views: never
+    }
+    'pages/posts/2020-05-03-333.md': {
+      routes: '/posts/2020-05-03-333'
+      views: never
+    }
+    'pages/posts/2020-06-09-337.md': {
+      routes: '/posts/2020-06-09-337'
+      views: never
+    }
+    'pages/posts/2020-06-13-344.md': {
+      routes: '/posts/2020-06-13-344'
+      views: never
+    }
+    'pages/posts/2020-06-14-346.md': {
+      routes: '/posts/2020-06-14-346'
+      views: never
+    }
+    'pages/posts/2020-06-14-348.md': {
+      routes: '/posts/2020-06-14-348'
+      views: never
+    }
+    'pages/posts/2020-06-15-357.md': {
+      routes: '/posts/2020-06-15-357'
+      views: never
+    }
+    'pages/posts/2020-07-19-358.md': {
+      routes: '/posts/2020-07-19-358'
+      views: never
+    }
+    'pages/posts/2020-07-28-372.md': {
+      routes: '/posts/2020-07-28-372'
+      views: never
+    }
+    'pages/posts/2020-07-29-381.md': {
+      routes: '/posts/2020-07-29-381'
+      views: never
+    }
+    'pages/posts/2020-08-07-397.md': {
+      routes: '/posts/2020-08-07-397'
+      views: never
+    }
+    'pages/posts/2020-10-10-410.md': {
+      routes: '/posts/2020-10-10-410'
+      views: never
+    }
+    'pages/posts/2020-10-16-416.md': {
+      routes: '/posts/2020-10-16-416'
+      views: never
+    }
+    'pages/posts/2020-10-17-417.md': {
+      routes: '/posts/2020-10-17-417'
+      views: never
+    }
+    'pages/posts/2021-02-28-419.md': {
+      routes: '/posts/2021-02-28-419'
+      views: never
+    }
+    'pages/posts/2021-02-28-420.md': {
+      routes: '/posts/2021-02-28-420'
+      views: never
+    }
+    'pages/posts/2021-02-28-421.md': {
+      routes: '/posts/2021-02-28-421'
+      views: never
+    }
+    'pages/posts/2021-07-04-422.md': {
+      routes: '/posts/2021-07-04-422'
+      views: never
+    }
+    'pages/posts/2021-07-19-423.md': {
+      routes: '/posts/2021-07-19-423'
+      views: never
+    }
+    'pages/posts/2021-07-26-424.md': {
+      routes: '/posts/2021-07-26-424'
+      views: never
+    }
+    'pages/posts/2021-08-02-425.md': {
+      routes: '/posts/2021-08-02-425'
+      views: never
+    }
+    'pages/posts/2021-08-09-426.md': {
+      routes: '/posts/2021-08-09-426'
+      views: never
+    }
+    'pages/posts/2021-08-23-427.md': {
+      routes: '/posts/2021-08-23-427'
+      views: never
+    }
+    'pages/posts/2021-09-29-428.md': {
+      routes: '/posts/2021-09-29-428'
+      views: never
+    }
+    'pages/posts/2021-11-23-429.md': {
+      routes: '/posts/2021-11-23-429'
+      views: never
+    }
+    'pages/posts/2021-12-08-430.md': {
+      routes: '/posts/2021-12-08-430'
+      views: never
+    }
+    'pages/posts/2021-12-15-431.md': {
+      routes: '/posts/2021-12-15-431'
+      views: never
+    }
+    'pages/posts/2022-07-02-432.md': {
+      routes: '/posts/2022-07-02-432'
+      views: never
+    }
+    'pages/posts/2022-07-02-433.md': {
+      routes: '/posts/2022-07-02-433'
+      views: never
+    }
+    'pages/posts/2022-07-02-434.md': {
+      routes: '/posts/2022-07-02-434'
+      views: never
+    }
+    'pages/posts/2022-07-06-435.md': {
+      routes: '/posts/2022-07-06-435'
+      views: never
+    }
+    'pages/posts/2022-07-07-436.md': {
+      routes: '/posts/2022-07-07-436'
+      views: never
+    }
+    'pages/posts/2022-07-09-437.md': {
+      routes: '/posts/2022-07-09-437'
+      views: never
+    }
+    'pages/posts/2022-07-28-438.md': {
+      routes: '/posts/2022-07-28-438'
+      views: never
+    }
+    'pages/posts/2022-07-31-439.md': {
+      routes: '/posts/2022-07-31-439'
+      views: never
+    }
+    'pages/posts/2024-04-06-442.md': {
+      routes: '/posts/2024-04-06-442'
+      views: never
+    }
+    'pages/posts/2024-04-07-443.md': {
+      routes: '/posts/2024-04-07-443'
+      views: never
+    }
+    'pages/posts/2025-03-06-444.md': {
+      routes: '/posts/2025-03-06-444'
+      views: never
+    }
+    'pages/posts/2025-03-06-445.md': {
+      routes: '/posts/2025-03-06-445'
+      views: never
+    }
+    'pages/posts/2025-03-06-446.md': {
+      routes: '/posts/2025-03-06-446'
+      views: never
+    }
+    'pages/posts/2025-03-06-447.md': {
+      routes: '/posts/2025-03-06-447'
+      views: never
+    }
+    'pages/posts/2025-03-14-448.md': {
+      routes: '/posts/2025-03-14-448'
+      views: never
+    }
+    'pages/posts/2025-05-01-449.md': {
+      routes: '/posts/2025-05-01-449'
+      views: never
+    }
+    'pages/posts/2025-05-02-450.md': {
+      routes: '/posts/2025-05-02-450'
+      views: never
+    }
+    'pages/posts/2025-05-03-451.md': {
+      routes: '/posts/2025-05-03-451'
+      views: never
+    }
+    'pages/posts/2025-05-04-452.md': {
+      routes: '/posts/2025-05-04-452'
+      views: never
+    }
+    'pages/posts/2025-05-05-453.md': {
+      routes: '/posts/2025-05-05-453'
+      views: never
+    }
+    'pages/tags/index.md': {
+      routes: '/tags/'
+      views: never
+    }
+  }
+
+  /**
+   * Get a union of possible route names in a certain route component file.
+   * Used by the volar plugin to automatically type useRoute()
+   *
+   * @internal
+   */
+  export type _RouteNamesForFilePath<FilePath extends string> =
+    _RouteFileInfoMap extends Record<FilePath, infer Info>
+      ? Info['routes']
+      : keyof RouteNamedMap
 }
