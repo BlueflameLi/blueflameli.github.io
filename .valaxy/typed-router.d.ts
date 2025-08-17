@@ -20,9 +20,7 @@ declare module 'vue-router/auto-routes' {
   export interface RouteNamedMap {
     '/': RouteRecordInfo<'/', '/', Record<never, never>, Record<never, never>>,
     '/[...path]': RouteRecordInfo<'/[...path]', '/:path(.*)', { path: ParamValue<true> }, { path: ParamValue<false> }>,
-    '/404': RouteRecordInfo<'/404', '/404', Record<never, never>, Record<never, never>>,
     '/about/': RouteRecordInfo<'/about/', '/about', Record<never, never>, Record<never, never>>,
-    '/about/site': RouteRecordInfo<'/about/site', '/about/site', Record<never, never>, Record<never, never>>,
     '/anime/': RouteRecordInfo<'/anime/', '/anime', Record<never, never>, Record<never, never>>,
     '/archives/': RouteRecordInfo<'/archives/', '/archives', Record<never, never>, Record<never, never>>,
     '/categories/': RouteRecordInfo<'/categories/', '/categories', Record<never, never>, Record<never, never>>,
@@ -161,20 +159,12 @@ declare module 'vue-router/auto-routes' {
       routes: '/'
       views: never
     }
-    'node_modules/.pnpm/valaxy@0.26.3_@babel+parser@7.28.3_@nuxt+kit@3.18.1_@types+markdown-it@14.1.2_@types+node@24._ujg6iakzbjpczj4peexoeodjom/node_modules/valaxy/client/pages/[...path].vue': {
+    'pages/[...path].md': {
       routes: '/[...path]'
-      views: never
-    }
-    'pages/404.md': {
-      routes: '/404'
       views: never
     }
     'pages/about/index.md': {
       routes: '/about/'
-      views: never
-    }
-    'pages/about/site.md': {
-      routes: '/about/site'
       views: never
     }
     'pages/anime/index.md': {

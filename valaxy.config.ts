@@ -3,6 +3,7 @@ import { defineValaxyConfig } from 'valaxy'
 import { addonMeting } from 'valaxy-addon-meting'
 import { addonBangumi } from 'valaxy-addon-bangumi'
 import { addonVercount } from 'valaxy-addon-vercount'
+import { addonHitokoto } from 'valaxy-addon-hitokoto'
 import pkg from './package.json'
 // add icons what you will need
 const safelist = [
@@ -265,6 +266,9 @@ export default defineValaxyConfig<ThemeUserConfig>({
     }),
     addonVercount({
       api: 'cn'
+    }),
+    addonHitokoto({
+      api: 'intl',
     }),
   ]
 })
