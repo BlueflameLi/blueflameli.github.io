@@ -2,6 +2,7 @@ import type { ThemeUserConfig } from 'valaxy-theme-sakura'
 import { defineValaxyConfig } from 'valaxy'
 import { addonMeting } from 'valaxy-addon-meting'
 import { addonBangumi } from 'valaxy-addon-bangumi'
+import { addonVercount } from 'valaxy-addon-vercount'
 import pkg from './package.json'
 // add icons what you will need
 const safelist = [
@@ -17,6 +18,23 @@ export default defineValaxyConfig<ThemeUserConfig>({
   theme: 'sakura',
 
   themeConfig: {
+    ui: {
+      primary: '#fe9500',
+
+      toggleDarkButton: {
+        lightIcon: 'i-line-md-moon-alt-to-sunny-outline-loop-transition',
+        darkIcon: 'i-line-md-sunny-outline-to-moon-loop-transition',
+      },
+      pinnedPost: {
+        icon: 'i-fa-anchor',
+      },
+      postList: {
+        icon: 'i-fa-envira',
+      },
+      scrollDown: {
+        icon: 'i-fa-chevron-down',
+      },
+    },
     hero: {
       title: 'Blueflame的小站',
       motto: '又一个划水的站点',
@@ -24,13 +42,28 @@ export default defineValaxyConfig<ThemeUserConfig>({
         'https://img.blueflame.org.cn/images/2022/08/01/62e7ad8f22620.jpg',
       ],
       // playerUrl: 'https://valaxy-theme-sakura.s3.bitiful.net/PV/Original PV Little love song MONGOL 800 cover by Amatsuki.mp4',
-      style: 'filter-grid',
+      style: 'filter-dim',
       // fixedImg: true,
       typewriter: true,
       // enableHitokoto: true,
 
     },
+    pagination: {
+      animation: true,
+      infiniteScrollOptions: {
+        preload: true,
+      },
+    },
+    postList: {
+      text: 'Discovery',
 
+      isImageReversed: true,
+      // defaultImage: ['https://www.dmoe.cc/random.php?random', 'https://www.loliapi.com/acg/pc/?random'],
+      defaultImage: ['https://www.dmoe.cc/random.php?random', 'https://img.xjh.me/random_img.php?random?type=bg&return=302'],
+    },
+    postFooter: {
+      navigationMerge: true,
+    },
     // pages: [
     //   {
     //     name: '我的小伙伴们',
@@ -202,6 +235,12 @@ export default defineValaxyConfig<ThemeUserConfig>({
         title: 'Blueflame',
       },
     },
+    tags: {
+      rainbow: true,
+    },
+    scrollToTop: true,
+    scrollIndicator: true,
+    scrollLock: false,
   },
 
   unocss: { safelist },
@@ -223,6 +262,9 @@ export default defineValaxyConfig<ThemeUserConfig>({
       api: 'https://yi_xiao_jiu-bangumi.web.val.run',
       bilibiliUid: '12570204',
       bgmUid: '859746',
+    }),
+    addonVercount({
+      api: 'cn'
     }),
   ]
 })
