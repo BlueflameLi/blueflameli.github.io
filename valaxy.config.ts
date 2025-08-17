@@ -136,16 +136,9 @@ export default defineValaxyConfig<ThemeUserConfig>({
         // ],
       },
       {
-        text: pkg.author.name,
-        icon: 'i-line-md-hazard-lights-filled',
-        link: pkg.author.url,
-        target: '_blank',
-        animated: 'animation-hvr-icon-bounce',
-      },
-      {
         text: '关于',
         icon: 'i-fa-leaf',
-        link: pkg.author.url,
+        link: '/about',
         target: '_blank',
         animated: 'animation-hvr-icon-bounce',
       },
