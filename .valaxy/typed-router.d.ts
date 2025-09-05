@@ -24,6 +24,7 @@ declare module 'vue-router/auto-routes' {
     '/anime/': RouteRecordInfo<'/anime/', '/anime', Record<never, never>, Record<never, never>>,
     '/archives/': RouteRecordInfo<'/archives/', '/archives', Record<never, never>, Record<never, never>>,
     '/categories/': RouteRecordInfo<'/categories/', '/categories', Record<never, never>, Record<never, never>>,
+    '/comment/': RouteRecordInfo<'/comment/', '/comment', Record<never, never>, Record<never, never>>,
     '/links/': RouteRecordInfo<'/links/', '/links', Record<never, never>, Record<never, never>>,
     '/page/[page]': RouteRecordInfo<'/page/[page]', '/page/:page', { page: ParamValue<true> }, { page: ParamValue<false> }>,
     '/posts/2019-11-29-92': RouteRecordInfo<'/posts/2019-11-29-92', '/posts/2019-11-29-92', Record<never, never>, Record<never, never>>,
@@ -155,7 +156,7 @@ declare module 'vue-router/auto-routes' {
    * @internal
    */
   export interface _RouteFileInfoMap {
-    'node_modules/.pnpm/valaxy-theme-sakura@0.10.1_@nuxt+kit@3.18.1_valaxy-addon-hitokoto@0.0.1_valaxy-addon-vercount_ezxall4yqne4qdvqxmunrvr43a/node_modules/valaxy-theme-sakura/pages/index.vue': {
+    'node_modules/.pnpm/valaxy-theme-sakura@0.10.2__7d18cbd0d28e4c02cdb00d4a6a36a356/node_modules/valaxy-theme-sakura/pages/index.vue': {
       routes: '/'
       views: never
     }
@@ -179,11 +180,15 @@ declare module 'vue-router/auto-routes' {
       routes: '/categories/'
       views: never
     }
+    'pages/comment/index.md': {
+      routes: '/comment/'
+      views: never
+    }
     'pages/links/index.md': {
       routes: '/links/'
       views: never
     }
-    'node_modules/.pnpm/valaxy-theme-sakura@0.10.1_@nuxt+kit@3.18.1_valaxy-addon-hitokoto@0.0.1_valaxy-addon-vercount_ezxall4yqne4qdvqxmunrvr43a/node_modules/valaxy-theme-sakura/pages/page/[page].vue': {
+    'node_modules/.pnpm/valaxy-theme-sakura@0.10.2__7d18cbd0d28e4c02cdb00d4a6a36a356/node_modules/valaxy-theme-sakura/pages/page/[page].vue': {
       routes: '/page/[page]'
       views: never
     }

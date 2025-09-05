@@ -19,12 +19,12 @@
   "dependencies": {
     "@iconify-json/fa": "^1.2.2",
     "@iconify-json/line-md": "^1.2.11",
-    "valaxy": "^0.26.3",
+    "valaxy": "^0.26.5",
     "valaxy-addon-algolia": "^0.2.0",
     "valaxy-addon-bangumi": "^0.2.2",
     "valaxy-addon-meting": "^0.1.4",
     "valaxy-addon-waline": "^0.2.1",
-    "valaxy-theme-sakura": "^0.10.1"
+    "valaxy-theme-sakura": "^0.10.2"
   },
   "devDependencies": {
     "typescript": "^5.9.2"
