@@ -6,7 +6,7 @@ export default defineSiteConfig({
   title: 'Blueflame的小站',
   subtitle: '又一个划水的站点',
   author: {
-    avatar: 'https://img.blueflame.org.cn/images/2021/02/17/fae6fb3481ef.jpg',
+    avatar: 'https://img.blueflame.org.cn/images/2025/09/05/68badbf0f008e.jpg',
     name: 'Blueflame',
   },
   description: '一个二次元技术宅',
