@@ -136,13 +136,6 @@ export default defineValaxyConfig<ThemeUserConfig>({
         // ],
       },
       {
-        text: '关于',
-        icon: 'i-fa-leaf',
-        link: '/about',
-        target: '_blank',
-        animated: 'animation-hvr-icon-bounce',
-      },
-      {
         text: 'RSS',
         icon: 'i-fa-feed',
         link: '/atom.xml',
