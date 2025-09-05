@@ -1,0 +1,1394 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Blueflame的小站",
+    "home_page_url": "blueflameli.github.io/",
+    "feed_url": "blueflameli.github.io/feed.json",
+    "description": "一个二次元技术宅",
+    "icon": "https://img.blueflame.org.cn/images/2025/09/05/68badbf0f008e.jpg",
+    "author": {
+        "name": "Blueflame",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "blueflameli.github.io/posts/2025-05-05-453",
+            "content_html": "<h2>接口</h2>\n<h3>什么是接口</h3>\n<p>接口就是指定一组函数成员而不实现它们的引用类型。</p>\n<p>对于下面的示例，只要传入的是 CA 类型的对象，<code>PrintInfo</code> 方法就能正常工作。但如果是 CB 类型</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2025-05-05-453\" target=\"_blank\">blueflameli.github.io/posts/2025-05-05-453</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2025-05-05-453",
+            "title": "C# 学习笔记（五）",
+            "date_modified": "2025-05-05T00:00:00.000Z",
+            "date_published": "2025-05-05T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2025-05-04-452",
+            "content_html": "<h2>结构</h2>\n<h3>什么是结构</h3>\n<p>和类类似，也有数据成员和函数成员，但结构是值类型，而类是引用类型，且结构是隐式密封的，不能派生其他结构</p>\n<h3>结构是值类型</h3>\n<p>和所有的值类型一样，结构类型的变</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2025-05-04-452\" target=\"_blank\">blueflameli.github.io/posts/2025-05-04-452</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2025-05-04-452",
+            "title": "C# 学习笔记（四）",
+            "date_modified": "2025-05-04T00:00:00.000Z",
+            "date_published": "2025-05-04T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2025-05-03-451",
+            "content_html": "<h2>类和继承</h2>\n<h3>类继承和访问继承成员</h3>\n<p>继承的概念和形式基本和 C++ 相同，访问继承成员的形式也和访问普通成员一样。</p>\n<h3>所有类都派生自 object 类</h3>\n<p>与 C++ 不同的是，</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2025-05-03-451\" target=\"_blank\">blueflameli.github.io/posts/2025-05-03-451</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2025-05-03-451",
+            "title": "C# 学习笔记（三）",
+            "date_modified": "2025-05-03T00:00:00.000Z",
+            "date_published": "2025-05-03T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2025-05-01-449",
+            "content_html": "<p>最近开始学 C#，计划五一五天速成一下，记录一下学习笔记，主要记录和 C++ 的区别，其他和 C++ 相同的就简单过去了，目前主要看的是《C#图解教程》</p>\n<h2>C# 编程概述</h2>\n<h3>一个简单的</h3>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2025-05-01-449\" target=\"_blank\">blueflameli.github.io/posts/2025-05-01-449</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2025-05-01-449",
+            "title": "C# 学习笔记（一）",
+            "date_modified": "2025-05-01T00:00:00.000Z",
+            "date_published": "2025-05-02T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2025-05-02-450",
+            "content_html": "<h2>方法</h2>\n<p>方法的结构和代码执行基本和 C++ 相同</p>\n<h3>局部变量</h3>\n<p>除了没有隐式的初始化外，基本和 C++ 相同，值类型的存储在栈中，引用类型的话，引用存储在栈中，数据存储在堆中。</p>\n<h2></h2>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2025-05-02-450\" target=\"_blank\">blueflameli.github.io/posts/2025-05-02-450</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2025-05-02-450",
+            "title": "C# 学习笔记（二）",
+            "date_modified": "2025-05-02T00:00:00.000Z",
+            "date_published": "2025-05-02T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2025-03-14-448",
+            "content_html": "<p><strong>GameplayEffects</strong>（简称 <strong>GE</strong>）是实现角色属性修改、状态变化（如 Buff/Debuff）以及瞬时或持续效果的核心机制。</p>\n<h2>**一、Gameplay Effects</h2>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2025-03-14-448\" target=\"_blank\">blueflameli.github.io/posts/2025-03-14-448</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2025-03-14-448",
+            "title": "GameplayEffect",
+            "date_modified": "2025-03-14T00:00:00.000Z",
+            "date_published": "2025-03-14T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2025-03-06-444",
+            "content_html": "<h3><strong>1. <code>CreateDefaultSubobject</code> 的核心作用</strong></h3>\n<p><code>CreateDefaultSubobject</code> 是 UE 中用于在 <strong>构造函数</strong> 中创建并注册子对象（Su</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2025-03-06-444\" target=\"_blank\">blueflameli.github.io/posts/2025-03-06-444</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2025-03-06-444",
+            "title": "CreateDefaultSubobject",
+            "date_modified": "2025-03-06T00:00:00.000Z",
+            "date_published": "2025-03-06T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2025-03-06-445",
+            "content_html": "<h3><strong>FName</strong></h3>\n<h4><strong>核心特点</strong></h4>\n<ul>\n<li><strong>不可变且唯一</strong>：<code>FName</code>存储的字符串是大小写<strong>不敏感</strong>的，内容不可修改，内部通过哈希表管理唯一实例，相同字符串共享同一</li>\n</ul>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2025-03-06-445\" target=\"_blank\">blueflameli.github.io/posts/2025-03-06-445</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2025-03-06-445",
+            "title": "FName、FString和FText",
+            "date_modified": "2025-03-06T00:00:00.000Z",
+            "date_published": "2025-03-06T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2025-03-06-446",
+            "content_html": "<h3><strong>三种复制模式的对比</strong></h3>\n<table>\n<thead>\n<tr>\n<th>复制模式</th>\n<th>适用场景</th>\n<th>复制的数据类型</th>\n<th>设计目标与典型用例</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Full（全复制）</strong></td>\n<td>**单人游</td>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2025-03-06-446\" target=\"_blank\">blueflameli.github.io/posts/2025-03-06-446</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2025-03-06-446",
+            "title": "EGameplayEffectReplicationMode",
+            "date_modified": "2025-03-06T00:00:00.000Z",
+            "date_published": "2025-03-06T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2025-03-06-447",
+            "content_html": "<h2>OwnerActor 与 AvatarActor</h2>\n<p>![image-20250305164238600](<a href=\"https://img.blueflame.org.cn/images/2025/03\">https://img.blueflame.org.cn/images/2025/03</a></p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2025-03-06-447\" target=\"_blank\">blueflameli.github.io/posts/2025-03-06-447</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2025-03-06-447",
+            "title": "Init Ability Actor Info",
+            "date_modified": "2025-03-06T00:00:00.000Z",
+            "date_published": "2025-03-06T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-07-28-372",
+            "content_html": "<p>[info]这个其实上个学期就打算写来着，但因为事情比较多，后面就忘了，这次刚好有机会补上[/info]</p>\n<p>tensorflow是什么就不用说了吧，下面直接进入正题</p>\n<p>本文配置环境为Windows下</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-07-28-372\" target=\"_blank\">blueflameli.github.io/posts/2020-07-28-372</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-07-28-372",
+            "title": "tensorflow安装配置",
+            "date_modified": "2020-07-28T00:00:00.000Z",
+            "date_published": "2024-10-10T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2024-04-07-443",
+            "content_html": "<p>这是篇关于写博客的博客，尽管，包括我在内的许多人，即便是搭了个博客，也很难坚持更新，懒得更新是一方面，没有合适的内容写成博客也是一方面，图文的形式终究是有一定的局限性，更何况有些时候，一个坑踩过去了</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2024-04-07-443\" target=\"_blank\">blueflameli.github.io/posts/2024-04-07-443</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2024-04-07-443",
+            "title": "如何选择写博客的平台",
+            "date_modified": "2024-04-07T00:00:00.000Z",
+            "date_published": "2024-04-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2022-07-31-439",
+            "content_html": "<h2>作业7</h2>\n<p>这次作业有点难，虽然有伪代码，但是一些变量和形参很容易混，wi、wo几乎是混在一起用，而且还有个方向的问题</p>\n<p>首先是迁移上次的部分代码，基本就原样复制过来就行了，唯一一个需要注意的就</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2022-07-31-439\" target=\"_blank\">blueflameli.github.io/posts/2022-07-31-439</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2022-07-31-439",
+            "title": "games101 作业笔记（作业 7）",
+            "date_modified": "2022-07-31T00:00:00.000Z",
+            "date_published": "2024-04-06T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2024-04-06-442",
+            "content_html": "<p>[info]久违的更新，之前是做老师那的项目比较忙，之后是准备秋招，再之后是准备考研，研一上嘛又因为比较摆，没什么能写的内容，这篇的内容其实也是半年前就写好初稿了，只是后面忘了来着[/info]</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2024-04-06-442\" target=\"_blank\">blueflameli.github.io/posts/2024-04-06-442</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2024-04-06-442",
+            "title": "Centos7 安装 Node18",
+            "date_modified": "2024-04-06T00:00:00.000Z",
+            "date_published": "2024-04-06T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2022-07-28-438",
+            "content_html": "<p>最近在刷 LeetCode 的时候发现， STL 里除了 sort、swap之类常用的算法之外，还有很多高效的算法可以大大简便我们的代码，虽然有些在题目中用到的不多，但都挺实用的，因此这在里记录一下</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2022-07-28-438\" target=\"_blank\">blueflameli.github.io/posts/2022-07-28-438</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2022-07-28-438",
+            "title": "C++ STL 中那些实用高效的算法",
+            "date_modified": "2022-07-28T00:00:00.000Z",
+            "date_published": "2022-07-28T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2022-07-09-437",
+            "content_html": "<p>这次作业总体难度不大，主要麻烦在找各种函数和变量是什么，互相之间有什么关系，理清这个就很麻烦，都理清了以后，就是按照课上的公式来就行了</p>\n<p>首先是 Rander 函数，和上次区别不大，坐标的转换已经帮</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2022-07-09-437\" target=\"_blank\">blueflameli.github.io/posts/2022-07-09-437</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2022-07-09-437",
+            "title": "games101 作业笔记（作业 6）",
+            "date_modified": "2022-07-09T00:00:00.000Z",
+            "date_published": "2022-07-09T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2022-07-07-436",
+            "content_html": "<h2>作业4</h2>\n<p>这次作业相比前几次简单许多了</p>\n<p>首先是 bezier 函数，作业文档讲的很清楚，只需要参考 naive_bezier 的循环，把用公式计算点改成调用 recursive_bezier</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2022-07-07-436\" target=\"_blank\">blueflameli.github.io/posts/2022-07-07-436</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2022-07-07-436",
+            "title": "games101 作业笔记（作业4~5）",
+            "date_modified": "2022-07-07T00:00:00.000Z",
+            "date_published": "2022-07-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2022-07-02-434",
+            "content_html": "<h2>作业 0</h2>\n<h3>安装环境</h3>\n<p>我这边是没使用虚拟机，用的 Windows 的 WSL2， 所以需要自己安装 Eigen, 安装前还需要安装 cmake， 我这边选择的是源码安装，因为似乎包管</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2022-07-02-434\" target=\"_blank\">blueflameli.github.io/posts/2022-07-02-434</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2022-07-02-434",
+            "title": "games101 作业笔记（作业0~2）",
+            "date_modified": "2022-07-02T00:00:00.000Z",
+            "date_published": "2022-07-06T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2022-07-06-435",
+            "content_html": "<p>这次作业算是比较重要的一次，算是整合了前面学的东西，不过代码框架依然有些问题，</p>\n<p>在 <code>rasterize_triangle</code> 函数中插值的注释里提到顶点的 w 分量是观察空间的深度 z，这点没有任</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2022-07-06-435\" target=\"_blank\">blueflameli.github.io/posts/2022-07-06-435</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2022-07-06-435",
+            "title": "games101 作业笔记（作业3）",
+            "date_modified": "2022-07-06T00:00:00.000Z",
+            "date_published": "2022-07-06T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-01-25-206",
+            "content_html": "<h2>Problem Description</h2>\n<p>在每年的校赛里，所有进入决赛的同学都会获得一件很漂亮的t-shirt。但是每当我们的工作人员把上百件的衣服从商店运回到赛场的时候，却是非常累的！所以现</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-01-25-206\" target=\"_blank\">blueflameli.github.io/posts/2020-01-25-206</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-01-25-206",
+            "title": "最短路径问题（HDOJ 3790）",
+            "date_modified": "2020-01-25T00:00:00.000Z",
+            "date_published": "2022-07-04T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2021-11-23-429",
+            "content_html": "<p>[info]</p>\n<p>这周学了下Go，这里记录了一下学习的笔记，主要来自官方Go指南 <a href=\"https://tour.go-zh.org/list\">《Go 语言之旅》 </a></p>\n<p>[/info]</p>\n<h2>包</h2>\n<p>每</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2021-11-23-429\" target=\"_blank\">blueflameli.github.io/posts/2021-11-23-429</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2021-11-23-429",
+            "title": "Go学习笔记（一）",
+            "date_modified": "2021-11-23T00:00:00.000Z",
+            "date_published": "2022-07-02T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2021-12-15-431",
+            "content_html": "<p>面向对象三大特性也不用多说了，首先是封装</p>\n<p>Java 的封装和 C++ 的基本也相同，通过 public 和 private 关键字来实现，区别也在前面类那边提过了，除此之外还有个和 C++ 不同的</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2021-12-15-431\" target=\"_blank\">blueflameli.github.io/posts/2021-12-15-431</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2021-12-15-431",
+            "title": "Java学习笔记（二）",
+            "date_modified": "2021-12-15T00:00:00.000Z",
+            "date_published": "2022-07-02T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2022-07-02-432",
+            "content_html": "<p>最近搞导师那边的项目，但由于学长那边传承下来的项目太臃肿了（因为那个学长也是从别的项目改过来的。。。），改起来很不方便，而且性能也跟不太上了，因此我打算重头自己写一个</p>\n<p>最后研究了一下决定采用 Vu</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2022-07-02-432\" target=\"_blank\">blueflameli.github.io/posts/2022-07-02-432</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2022-07-02-432",
+            "title": "Nuxt3 踩坑笔记",
+            "date_modified": "2022-07-02T00:00:00.000Z",
+            "date_published": "2022-07-02T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2022-07-02-433",
+            "content_html": "<blockquote>\n<p>许久未更新了，主要吧是上个学期比较忙，除了导师的项目就是在刷 leetcode 和背面经，Leetcode 虽然也写了一些题解，但 Leetcode 官方题解就非常详细，所以就没发了，这篇文章也</p>\n</blockquote>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2022-07-02-433\" target=\"_blank\">blueflameli.github.io/posts/2022-07-02-433</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2022-07-02-433",
+            "title": "Lsky pro 图床 + 腾讯云 COS",
+            "date_modified": "2022-07-02T00:00:00.000Z",
+            "date_published": "2022-07-02T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-01-26-209",
+            "content_html": "<h2>Problem Description</h2>\n<p>Given a <em>n</em> × <em>n</em> matrix <em>A</em> and a positive integer &lt;</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-01-26-209\" target=\"_blank\">blueflameli.github.io/posts/2020-01-26-209</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-01-26-209",
+            "title": "Matrix Power Series(POJ 3233)",
+            "date_modified": "2020-01-26T00:00:00.000Z",
+            "date_published": "2022-05-10T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2021-09-29-428",
+            "content_html": "<p>申请小程序账号和安装微信开发者工具就略过了，[官方文档](<a href=\"https://developers.weixin.qq.com/miniprogram/dev/framework/quickstart/\">https://developers.weixin.qq.com/miniprogram/dev/framework/quickstart/</a></p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2021-09-29-428\" target=\"_blank\">blueflameli.github.io/posts/2021-09-29-428</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2021-09-29-428",
+            "title": "微信小程序学习笔记（一）",
+            "date_modified": "2021-09-29T00:00:00.000Z",
+            "date_published": "2021-12-29T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2021-12-08-430",
+            "content_html": "<p>[info]因为已经学过挺多编程语言了，加上我最熟悉的还是C/C++，所以Java基础的部分，就只记录和 C/C++ 的不同了，相同的部分我就快速过了[/info]</p>\n<h2>基本数据类型</h2>\n<p>| 数</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2021-12-08-430\" target=\"_blank\">blueflameli.github.io/posts/2021-12-08-430</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2021-12-08-430",
+            "title": "Java学习笔记（一）",
+            "date_modified": "2021-12-08T00:00:00.000Z",
+            "date_published": "2021-12-15T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2019-11-29-97",
+            "content_html": "<p>::: info<br>\n这是本站的第一篇文章，所以我分享一下我建站的经历,其实我一开始并没打算建这么一个个人的网站（虽然曾经是打算建一个），我只是买了一个云服务器用来挂qq机器人，然后顺便就建了这么一个博</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2019-11-29-97\" target=\"_blank\">blueflameli.github.io/posts/2019-11-29-97</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2019-11-29-97",
+            "title": "建站伊始(一)",
+            "date_modified": "2019-11-29T00:00:00.000Z",
+            "date_published": "2021-08-23T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2019-12-18-112",
+            "content_html": "<p>::: info<br>\n很久没更新了，今天闲来无事~~（这是不可能的）~~，把上一篇文章写下去，然后下周要准备期末复习了，所以又要。。。不愧是最划水的个人小站<br>\n:::</p>\n<h2>SSL的部署</h2>\n<p>wordpr</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2019-12-18-112\" target=\"_blank\">blueflameli.github.io/posts/2019-12-18-112</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2019-12-18-112",
+            "title": "建站伊始（二）",
+            "date_modified": "2019-12-18T00:00:00.000Z",
+            "date_published": "2021-08-23T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-01-14-140",
+            "content_html": "<p>::: info<br>\n这几天参加了一个区块链培训，觉得挺有用的，为了方便自己以后再用到，于是决定把它记录在我的博客上，也希望能给想学区块链的朋友们提供一点帮助 <s>(至少不会走我踩过的坑)</s><br>\n:::</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-01-14-140\" target=\"_blank\">blueflameli.github.io/posts/2020-01-14-140</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-01-14-140",
+            "title": "区块链学习笔记（一）",
+            "date_modified": "2020-01-14T00:00:00.000Z",
+            "date_published": "2021-08-23T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2021-08-09-426",
+            "content_html": "<h2>Vuex 是什么？</h2>\n<p>官网描述为：</p>\n<blockquote>\n<p>Vuex 是一个专为 Vue.js 应用程序开发的<strong>状态管理模式</strong>。它采用集中式存储管理应用的所有组件的状态，并以相应的规则保证状态以一种可预测的</p>\n</blockquote>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2021-08-09-426\" target=\"_blank\">blueflameli.github.io/posts/2021-08-09-426</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2021-08-09-426",
+            "title": "Vue学习笔记（四）",
+            "date_modified": "2021-08-09T00:00:00.000Z",
+            "date_published": "2021-08-23T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2021-08-23-427",
+            "content_html": "<h2>什么是路由</h2>\n<p>听到路由这个名词，第一个反应肯定是我们家里连 WiFi 的路由器，那么到底是什么是路由呢？</p>\n<p>百度百科是这么说的</p>\n<blockquote>\n<p>路由是指[路由器](<a href=\"https://baike.baidu\">https://baike.baidu</a></p>\n</blockquote>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2021-08-23-427\" target=\"_blank\">blueflameli.github.io/posts/2021-08-23-427</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2021-08-23-427",
+            "title": "Vue学习笔记（五）",
+            "date_modified": "2021-08-23T00:00:00.000Z",
+            "date_published": "2021-08-23T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2021-08-02-425",
+            "content_html": "<p>[info]直到目前为止，整个页面的代码都是写在一个 html 文件之中，这显然不利于开发，同时也很难进行代码的复用，因此实际情况中很少这么写，除非是很简单的项目，因此到了最后必然需要将代码模块化，</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2021-08-02-425\" target=\"_blank\">blueflameli.github.io/posts/2021-08-02-425</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2021-08-02-425",
+            "title": "Vue学习笔记（三）",
+            "date_modified": "2021-08-02T00:00:00.000Z",
+            "date_published": "2021-08-06T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-06-09-337",
+            "content_html": "<p>[info]期末考前最后一次更新[/info]</p>\n<p>这个qq机器人其实是我上学期弄得，前段时间升级了一下功能</p>\n<p>包括搜图、点歌、查题、追番等等，使用的是酷Q Pro，<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-06-09-337\" target=\"_blank\">blueflameli.github.io/posts/2020-06-09-337</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-06-09-337",
+            "title": "QQ机器人",
+            "date_modified": "2020-06-09T00:00:00.000Z",
+            "date_published": "2021-07-26T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-10-17-417",
+            "content_html": "<p>[info]这是HDU会计信息系统课程所需要安装的一个财务软件（当然，我不选这课，只是帮朋友装一下），不过由于需要在虚拟机中安装xp和数据库所以比较繁琐，而且网上教程比较难找（B站上有个学长的教程挺</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-10-17-417\" target=\"_blank\">blueflameli.github.io/posts/2020-10-17-417</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-10-17-417",
+            "title": "会计信息系统课程软件（U872）安装教程",
+            "date_modified": "2020-10-17T00:00:00.000Z",
+            "date_published": "2021-07-26T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2021-07-19-423",
+            "content_html": "<p>[info]时隔一年的再次更新，因为这两周在学前端，所以就先从Vue开始[/info]</p>\n<h2>什么是 Vue？</h2>\n<p>Vue 的<a href=\"https://cn.vuejs.org/\">官网</a>描述是：</p>\n<blockquote>\n<p>V</p>\n</blockquote>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2021-07-19-423\" target=\"_blank\">blueflameli.github.io/posts/2021-07-19-423</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2021-07-19-423",
+            "title": "Vue学习笔记（一）",
+            "date_modified": "2021-07-19T00:00:00.000Z",
+            "date_published": "2021-07-26T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2021-07-26-424",
+            "content_html": "<h2>MVVM</h2>\n<p>MVVM是一种编程的模式，Vue 的设计正是基于 MVVM 模型的(虽然 Vue 也没有完全遵循 MVVM），MVVM 是四个字母，实际上是三个东西，即 M(Model)、V(Vi</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2021-07-26-424\" target=\"_blank\">blueflameli.github.io/posts/2021-07-26-424</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2021-07-26-424",
+            "title": "Vue学习笔记（二）",
+            "date_modified": "2021-07-26T00:00:00.000Z",
+            "date_published": "2021-07-26T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2019-11-29-92",
+            "content_html": "<p>今天起，这个博客就正式开放啦，对这个网站有任何建议，请直接告诉我，如果有好看的壁纸(电脑和手机都行)可以推荐给我，还有好听的音乐(音乐播放器在左下角)也可以推荐给我，现在网站里的音乐是我随便找的。</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2019-11-29-92\" target=\"_blank\">blueflameli.github.io/posts/2019-11-29-92</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2019-11-29-92",
+            "title": "第一篇日记",
+            "date_modified": "2019-11-29T00:00:00.000Z",
+            "date_published": "2021-07-04T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2021-07-04-422",
+            "content_html": "<p>博客很久没更新了，过两天有空的话，一次性把上半年的更新完，不过这几天在学vue，可能还要再晚一点</p>\n<p>今天把博客系统升级到了4.0，可以安装插件和更换主题了，小游yyds</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2021-07-04-422\" target=\"_blank\">blueflameli.github.io/posts/2021-07-04-422</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2021-07-04-422",
+            "title": "博客升级",
+            "date_modified": "2021-07-04T00:00:00.000Z",
+            "date_published": "2021-07-04T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-01-23-199",
+            "content_html": "<h2>Problem Description</h2>\n<p>在每年的校赛里，所有进入决赛的同学都会获得一件很漂亮的t-shirt。但是每当我们的工作人员把上百件的衣服从商店运回到赛场的时候，却是非常累的！所以</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-01-23-199\" target=\"_blank\">blueflameli.github.io/posts/2020-01-23-199</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-01-23-199",
+            "title": "最短路（HDOJ 2544）",
+            "date_modified": "2020-01-23T00:00:00.000Z",
+            "date_published": "2021-06-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-03-04-304",
+            "content_html": "<h2>Problem Description</h2>\n<p>Have you ever played quoit in a playground? Quoit is a game in which flat</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-03-04-304\" target=\"_blank\">blueflameli.github.io/posts/2020-03-04-304</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-03-04-304",
+            "title": "Quoit Design(HDOJ 1007)",
+            "date_modified": "2020-03-04T00:00:00.000Z",
+            "date_published": "2021-05-04T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-04-04-317",
+            "content_html": "<p><strong>今天，2020年4月4日，全国哀悼日，为了表示对逝者的悼念， 我们会让网站全站灰色。此文章我将一直保留灰色，以铭记此日</strong>。</p>\n<p>![](<a href=\"https://img.blueflame.org.cn/\">https://img.blueflame.org.cn/</a></p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-04-04-317\" target=\"_blank\">blueflameli.github.io/posts/2020-04-04-317</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-04-04-317",
+            "title": "如何把网站变成灰色",
+            "date_modified": "2020-04-04T00:00:00.000Z",
+            "date_published": "2021-03-08T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-01-15-160",
+            "content_html": "<p>[info]由于寒假要做专题训练，所以我决定，把代码都记录下来，这是第一题，是一道bfs，由此可见这个专题应该都是搜索了，唉，心累。[/info]</p>\n<h2>Problem Descri</h2>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-01-15-160\" target=\"_blank\">blueflameli.github.io/posts/2020-01-15-160</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-01-15-160",
+            "title": "Nightmare（HDOJ 1072）",
+            "date_modified": "2020-01-15T00:00:00.000Z",
+            "date_published": "2021-03-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-01-15-165",
+            "content_html": "<p>[info]第一天主要是了解以太坊的基本操作，第二天是合约入门，第三天是Dapps入门，不过由于Dapps比较难，需要结合其他的编程语言，我们培训时是利用JavaScript以网页的形式展示，<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-01-15-165\" target=\"_blank\">blueflameli.github.io/posts/2020-01-15-165</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-01-15-165",
+            "title": "区块链学习笔记（二）",
+            "date_modified": "2020-01-15T00:00:00.000Z",
+            "date_published": "2021-03-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-01-17-178",
+            "content_html": "<h2>Problem Description</h2>\n<p>“连连看”相信很多人都玩过。没玩过也没关系，下面我给大家介绍一下游戏规则：在一个棋盘中，放了很多的棋子。如果某两个相同的棋子，可以通过一条线连起来（</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-01-17-178\" target=\"_blank\">blueflameli.github.io/posts/2020-01-17-178</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-01-17-178",
+            "title": "连连看（HDOJ 1175）",
+            "date_modified": "2020-01-17T00:00:00.000Z",
+            "date_published": "2021-03-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-01-18-179",
+            "content_html": "<h2>Problem Description</h2>\n<p>Hogwarts正式开学以后,Harry发现在Hogwarts里,某些楼梯并不是静止不动的，相反,他们每隔一分钟就变动一次方向.<br>\n比如下面的例子里,</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-01-18-179\" target=\"_blank\">blueflameli.github.io/posts/2020-01-18-179</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-01-18-179",
+            "title": "诡异的楼梯（HDOJ 1180）",
+            "date_modified": "2020-01-18T00:00:00.000Z",
+            "date_published": "2021-03-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-01-18-180",
+            "content_html": "<h2>Problem Description</h2>\n<p>呃......变形课上Harry碰到了一点小麻烦,因为他并不像Hermione那样能够记住所有的咒语而随意的将一个棒球变成刺猬什么的,但是他发现了变</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-01-18-180\" target=\"_blank\">blueflameli.github.io/posts/2020-01-18-180</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-01-18-180",
+            "title": "变形课（HDOJ 1181）",
+            "date_modified": "2020-01-18T00:00:00.000Z",
+            "date_published": "2021-03-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-01-20-181",
+            "content_html": "<h2>Problem Description</h2>\n<p>Angel was caught by the MOLIGPY! He was put in prison by Moligpy. The pris</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-01-20-181\" target=\"_blank\">blueflameli.github.io/posts/2020-01-20-181</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-01-20-181",
+            "title": "Rescue（HDOJ 1242）",
+            "date_modified": "2020-01-20T00:00:00.000Z",
+            "date_published": "2021-03-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-01-20-185",
+            "content_html": "<h2>Problem Description</h2>\n<p>大家一定觉的运动以后喝可乐是一件很惬意的事情，但是seeyou却不这么认为。因为每次当seeyou买了可乐以后，阿牛就要求和seeyou一起分享这一</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-01-20-185\" target=\"_blank\">blueflameli.github.io/posts/2020-01-20-185</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-01-20-185",
+            "title": "非常可乐（HDOJ 1495）",
+            "date_modified": "2020-01-20T00:00:00.000Z",
+            "date_published": "2021-03-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-01-20-186",
+            "content_html": "<h2>Problem Description</h2>\n<p>给定一个m × n (m行, n列)的迷宫，迷宫中有两个位置，gloria想从迷宫的一个位置走到另外一个位置，当然迷宫中有些地方是空地，gloria</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-01-20-186\" target=\"_blank\">blueflameli.github.io/posts/2020-01-20-186</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-01-20-186",
+            "title": "逃离迷宫（HDOJ 1728）",
+            "date_modified": "2020-01-20T00:00:00.000Z",
+            "date_published": "2021-03-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-01-20-187",
+            "content_html": "<h2>Problem Description</h2>\n<p>推箱子是一个很经典的游戏.今天我们来玩一个简单版本.在一个M*N的房间里有一个箱子和一个搬运工,搬运工的工作就是把箱子推到指定的位置,注意,搬运工只</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-01-20-187\" target=\"_blank\">blueflameli.github.io/posts/2020-01-20-187</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-01-20-187",
+            "title": "推箱子（HDOJ 1254）",
+            "date_modified": "2020-01-20T00:00:00.000Z",
+            "date_published": "2021-03-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-01-20-188",
+            "content_html": "<h2>Problem Description</h2>\n<p>Ignatius再次被魔王抓走了(搞不懂他咋这么讨魔王喜欢)……</p>\n<p>这次魔王汲取了上次的教训，把Ignatius关在一个n*m的地牢里，并在地牢的某</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-01-20-188\" target=\"_blank\">blueflameli.github.io/posts/2020-01-20-188</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-01-20-188",
+            "title": "胜利大逃亡(续)（HDOJ 1429）",
+            "date_modified": "2020-01-20T00:00:00.000Z",
+            "date_published": "2021-03-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-01-21-192",
+            "content_html": "<p>[info]今天开始进入第二专题了，这个专题应该是图论，我们将用到Floyd、dijkstra以及SPFA等熟悉的算法[/info]</p>\n<h2>Problem Description</h2>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-01-21-192\" target=\"_blank\">blueflameli.github.io/posts/2020-01-21-192</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-01-21-192",
+            "title": "Arbitrage（HDOJ 1217）",
+            "date_modified": "2020-01-21T00:00:00.000Z",
+            "date_published": "2021-03-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-01-21-193",
+            "content_html": "<h2>Problem Description</h2>\n<p>Weiwei is a software engineer of ShiningSoft. He has just excellently fulf</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-01-21-193\" target=\"_blank\">blueflameli.github.io/posts/2020-01-21-193</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-01-21-193",
+            "title": "Free DIY Tour（HDOJ 1224）",
+            "date_modified": "2020-01-21T00:00:00.000Z",
+            "date_published": "2021-03-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-01-21-194",
+            "content_html": "<h2>Problem Description</h2>\n<p>These are N cities in Spring country. Between each pair of cities there may</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-01-21-194\" target=\"_blank\">blueflameli.github.io/posts/2020-01-21-194</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-01-21-194",
+            "title": "Minimum Transport Cost（HDOJ 1385）",
+            "date_modified": "2020-01-21T00:00:00.000Z",
+            "date_published": "2021-03-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-01-22-196",
+            "content_html": "<h2>Problem Description</h2>\n<p>某省自从实行了很多年的畅通工程计划后，终于修建了很多路。不过路多了也不好，每次要从一个城镇到另一个城镇时，都有许多种道路方案可以选择，而某些方案要比</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-01-22-196\" target=\"_blank\">blueflameli.github.io/posts/2020-01-22-196</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-01-22-196",
+            "title": "畅通工程续（HDOJ 1874）",
+            "date_modified": "2020-01-22T00:00:00.000Z",
+            "date_published": "2021-03-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-01-22-197",
+            "content_html": "<h2>Problem Description</h2>\n<p>虽然草儿是个路痴（就是在杭电待了一年多，居然还会在校园里迷路的人，汗~),但是草儿仍然很喜欢旅行，因为在旅途中 会遇见很多人（白马王子，^0^），很</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-01-22-197\" target=\"_blank\">blueflameli.github.io/posts/2020-01-22-197</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-01-22-197",
+            "title": "一个人的旅行（HDOJ 2066）",
+            "date_modified": "2020-01-22T00:00:00.000Z",
+            "date_published": "2021-03-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-01-23-198",
+            "content_html": "<h2>Problem Description</h2>\n<p>经过锦囊相助，海东集团终于度过了危机，从此，HDU的发展就一直顺风顺水，到了2050年，集团已经相当规模了，据说进入了钱江肉丝经济开发区500强。这</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-01-23-198\" target=\"_blank\">blueflameli.github.io/posts/2020-01-23-198</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-01-23-198",
+            "title": "HDU Today（HDOJ 2112）",
+            "date_modified": "2020-01-23T00:00:00.000Z",
+            "date_published": "2021-03-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-01-23-200",
+            "content_html": "<h2>Problem Description</h2>\n<p>One day , Kiki wants to visit one of her friends. As she is liable to cars</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-01-23-200\" target=\"_blank\">blueflameli.github.io/posts/2020-01-23-200</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-01-23-200",
+            "title": "Choose the best route（HDOJ 2680）",
+            "date_modified": "2020-01-23T00:00:00.000Z",
+            "date_published": "2021-03-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-01-25-201",
+            "content_html": "<h2>Problem Description</h2>\n<p>The Gorelians are a warlike race that travel the universe conquering new wo</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-01-25-201\" target=\"_blank\">blueflameli.github.io/posts/2020-01-25-201</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-01-25-201",
+            "title": "Here We Go(relians) Again（HDOJ 2722）",
+            "date_modified": "2020-01-25T00:00:00.000Z",
+            "date_published": "2021-03-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-01-25-203",
+            "content_html": "<h2>Problem Description</h2>\n<p>Einbahnstra ![](<a href=\"https://img.blueflame.org.cn/images/2021/03/07/21c268c020a\">https://img.blueflame.org.cn/images/2021/03/07/21c268c020a</a></p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-01-25-203\" target=\"_blank\">blueflameli.github.io/posts/2020-01-25-203</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-01-25-203",
+            "title": "Einbahnstrasse（HDOJ 2923）",
+            "date_modified": "2020-01-25T00:00:00.000Z",
+            "date_published": "2021-03-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-01-25-204",
+            "content_html": "<h2>Problem Description</h2>\n<p><img src=\"https://img.blueflame.org.cn/images/2021/03/07/e5ff37ab6314.jpg\" alt=\"\"><br>\nSince</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-01-25-204\" target=\"_blank\">blueflameli.github.io/posts/2020-01-25-204</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-01-25-204",
+            "title": "In Action（HDOJ 3339）",
+            "date_modified": "2020-01-25T00:00:00.000Z",
+            "date_published": "2021-03-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-01-26-207",
+            "content_html": "<p>[info]这一专题应该是矩阵快速幂，有几道没在HDOJ上找到原题，它应该是直接提交到POJ上去的[/info]</p>\n<h2>Problem Description</h2>\n<p>In the Fi</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-01-26-207\" target=\"_blank\">blueflameli.github.io/posts/2020-01-26-207</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-01-26-207",
+            "title": "Fibonacci(Poj 3070)",
+            "date_modified": "2020-01-26T00:00:00.000Z",
+            "date_published": "2021-03-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-01-26-208",
+            "content_html": "<h2>Problem Description</h2>\n<p>A为一个方阵，则Tr A表示A的迹（就是主对角线上各项的和），现要求Tr(A^k)%9973。</p>\n<h2>Input</h2>\n<p>数据的第一行是一个T，表示</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-01-26-208\" target=\"_blank\">blueflameli.github.io/posts/2020-01-26-208</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-01-26-208",
+            "title": "Tr A(HDOJ 1575)",
+            "date_modified": "2020-01-26T00:00:00.000Z",
+            "date_published": "2021-03-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-01-27-210",
+            "content_html": "<h2>Problem Description</h2>\n<p>Queues and Priority Queues are data structures which are known to most com</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-01-27-210\" target=\"_blank\">blueflameli.github.io/posts/2020-01-27-210</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-01-27-210",
+            "title": "Queuing(HDOJ 2604)",
+            "date_modified": "2020-01-27T00:00:00.000Z",
+            "date_published": "2021-03-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-01-27-211",
+            "content_html": "<h2>Problem Description</h2>\n<p>Lele now is thinking about a simple function f(x).</p>\n<p>If x &lt; 10 f(x) = x.<br>\nIf</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-01-27-211\" target=\"_blank\">blueflameli.github.io/posts/2020-01-27-211</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-01-27-211",
+            "title": "A Simple Math Problem（HDOJ 1757）",
+            "date_modified": "2020-01-27T00:00:00.000Z",
+            "date_published": "2021-03-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-01-27-212",
+            "content_html": "<h2>Problem Description</h2>\n<p>In chapter 4 of the game Trails in the Sky SC, Estelle Bright and her frien</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-01-27-212\" target=\"_blank\">blueflameli.github.io/posts/2020-01-27-212</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-01-27-212",
+            "title": "Mistwald（ZOJ 3497）",
+            "date_modified": "2020-01-27T00:00:00.000Z",
+            "date_published": "2021-03-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-01-28-213",
+            "content_html": "<h2>Problem Description</h2>\n<p>Evolution is a long, long process with extreme complexity and involves man</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-01-28-213\" target=\"_blank\">blueflameli.github.io/posts/2020-01-28-213</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-01-28-213",
+            "title": "Evolution(ZOJ 2853)",
+            "date_modified": "2020-01-28T00:00:00.000Z",
+            "date_published": "2021-03-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-01-29-215",
+            "content_html": "<p>[info]又到了新的专题，这专题的内容是字典树[/info]</p>\n<h2>Problem Description</h2>\n<p>An encoding of a set of symbols is said t</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-01-29-215\" target=\"_blank\">blueflameli.github.io/posts/2020-01-29-215</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-01-29-215",
+            "title": "Immediate Decodability（HDOJ 1305）",
+            "date_modified": "2020-01-29T00:00:00.000Z",
+            "date_published": "2021-03-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-01-29-217",
+            "content_html": "<h2>Problem Description</h2>\n<p>Ignatius最近遇到一个难题,老师交给他很多单词(只有小写字母组成,不会有重复的单词出现),现在老师要他统计出以某个字符串为前缀的单词数量(单词</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-01-29-217\" target=\"_blank\">blueflameli.github.io/posts/2020-01-29-217</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-01-29-217",
+            "title": "统计难题（HDOJ 1251）",
+            "date_modified": "2020-01-29T00:00:00.000Z",
+            "date_published": "2021-03-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-01-29-218",
+            "content_html": "<h2>Problem Description</h2>\n<p>Given a list of phone numbers, determine if it is consistent in the sense</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-01-29-218\" target=\"_blank\">blueflameli.github.io/posts/2020-01-29-218</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-01-29-218",
+            "title": "Phone List(HDOJ 1671)",
+            "date_modified": "2020-01-29T00:00:00.000Z",
+            "date_published": "2021-03-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-01-30-219",
+            "content_html": "<h2>Problem Description</h2>\n<p>Ignatius is so lucky that he met a Martian yesterday. But he didn't know th</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-01-30-219\" target=\"_blank\">blueflameli.github.io/posts/2020-01-30-219</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-01-30-219",
+            "title": "What Are You Talking About(HDOJ 1075)",
+            "date_modified": "2020-01-30T00:00:00.000Z",
+            "date_published": "2021-03-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-01-30-220",
+            "content_html": "<h2>Problem Description</h2>\n<p>The contest is beginning! While preparing the contest, iSea wanted to prin</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-01-30-220\" target=\"_blank\">blueflameli.github.io/posts/2020-01-30-220</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-01-30-220",
+            "title": "Ancient Printer（HDOJ 3460）",
+            "date_modified": "2020-01-30T00:00:00.000Z",
+            "date_published": "2021-03-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-01-30-221",
+            "content_html": "<h2>Problem Description</h2>\n<p>lily的好朋友xiaoou333最近很空，他想了一件没有什么意义的事情，就是统计一篇文章里不同单词的总数。下面你的任务是帮助xiaoou333解决</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-01-30-221\" target=\"_blank\">blueflameli.github.io/posts/2020-01-30-221</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-01-30-221",
+            "title": "单词数（HDOJ 2072）",
+            "date_modified": "2020-01-30T00:00:00.000Z",
+            "date_published": "2021-03-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-02-08-223",
+            "content_html": "<h2>Problem Description</h2>\n<p>Given a graph G(V, E), a clique is a sub-graph g(v, e), so that for all ve</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-02-08-223\" target=\"_blank\">blueflameli.github.io/posts/2020-02-08-223</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-02-08-223",
+            "title": "Maximum Clique（HDOJ 1530）",
+            "date_modified": "2020-02-08T00:00:00.000Z",
+            "date_published": "2021-03-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-02-09-224",
+            "content_html": "<p>[info]稳定婚姻问题其实也算是二分图匹配，只不过是加权二分图罢了，所以我也放到了二分图这个分类，就不另外分类了[/info]</p>\n<h2>Problem Description</h2>\n<p>A</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-02-09-224\" target=\"_blank\">blueflameli.github.io/posts/2020-02-09-224</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-02-09-224",
+            "title": "Marriage is Stable（HDOJ 1522）",
+            "date_modified": "2020-02-09T00:00:00.000Z",
+            "date_published": "2021-03-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-02-10-227",
+            "content_html": "<h2>Problem Description</h2>\n<p>Sociologists are interested in the phenomenon of &quot;friendship&quot;. To study th</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-02-10-227\" target=\"_blank\">blueflameli.github.io/posts/2020-02-10-227</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-02-10-227",
+            "title": "All Friends（POJ 2989）",
+            "date_modified": "2020-02-10T00:00:00.000Z",
+            "date_published": "2021-03-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-02-11-229",
+            "content_html": "<h2>Problem Description</h2>\n<p>As we all know, machine scheduling is a very classical problem in computer</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-02-11-229\" target=\"_blank\">blueflameli.github.io/posts/2020-02-11-229</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-02-11-229",
+            "title": "Machine Schedule（HDOJ 1150）",
+            "date_modified": "2020-02-11T00:00:00.000Z",
+            "date_published": "2021-03-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-02-11-230",
+            "content_html": "<h2>Problem Description</h2>\n<p>Consider a town where all the streets are one-way and each street leads fr</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-02-11-230\" target=\"_blank\">blueflameli.github.io/posts/2020-02-11-230</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-02-11-230",
+            "title": "Air Raid（HDOJ 1151）",
+            "date_modified": "2020-02-11T00:00:00.000Z",
+            "date_published": "2021-03-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-02-12-233",
+            "content_html": "<h2>Problem Description</h2>\n<p>小希和Gardon在玩一个游戏：对一个N*M的棋盘，在格子里放尽量多的一些国际象棋里面的“车”，并且使得他们不能互相攻击，这当然很简单，但是Gard</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-02-12-233\" target=\"_blank\">blueflameli.github.io/posts/2020-02-12-233</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-02-12-233",
+            "title": "棋盘游戏（HDOJ 1281）",
+            "date_modified": "2020-02-12T00:00:00.000Z",
+            "date_published": "2021-03-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-02-12-234",
+            "content_html": "<h2>Problem Description</h2>\n<p>On Octorber 21st, HDU 50-year-celebration, 50-color balloons floating arou</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-02-12-234\" target=\"_blank\">blueflameli.github.io/posts/2020-02-12-234</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-02-12-234",
+            "title": "50 years, 50 colors(HDOJ 1498)",
+            "date_modified": "2020-02-12T00:00:00.000Z",
+            "date_published": "2021-03-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-02-19-236",
+            "content_html": "<p>[info]寒假参加了vidar team的hgame，总共四周，第四周我挂了，我果然还是太菜了[/info]</p>\n<p>先把转爷设计的logo放出来，是真的好看。</p>\n<p>![](h</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-02-19-236\" target=\"_blank\">blueflameli.github.io/posts/2020-02-19-236</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-02-19-236",
+            "title": "HGAME2020 Week1 WriteUp",
+            "date_modified": "2020-02-19T00:00:00.000Z",
+            "date_published": "2021-03-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-02-19-266",
+            "content_html": "<h2>Web</h2>\n<h3>Cosmos的留言板-1</h3>\n<p>这题打开一看，一个留言板，没有可以操作的地方 </p>\n<p>![](<a href=\"https://img.blueflame.org.cn/images/2\">https://img.blueflame.org.cn/images/2</a></p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-02-19-266\" target=\"_blank\">blueflameli.github.io/posts/2020-02-19-266</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-02-19-266",
+            "title": "HGAME2020 Week2 WriteUp",
+            "date_modified": "2020-02-19T00:00:00.000Z",
+            "date_published": "2021-03-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-02-19-271",
+            "content_html": "<h2>Web</h2>\n<h3>序列之争 - Ordinal Scale</h3>\n<p> 第一步才是最艰难的。。。  </p>\n<p>源码里提示有个压缩包，一直都不知道这个压缩包在哪，原来直接可以从根目录下的吗<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-02-19-271\" target=\"_blank\">blueflameli.github.io/posts/2020-02-19-271</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-02-19-271",
+            "title": "HGAME2020 Week3 WriteUp",
+            "date_modified": "2020-02-19T00:00:00.000Z",
+            "date_published": "2021-03-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-02-20-295",
+            "content_html": "<h2>Problem Description</h2>\n<p>C国的死对头A国这段时间正在进行军事演习，所以C国间谍头子Derek和他手下Tidy又开始忙乎了。A国在海岸线沿直线布置了N个工兵营地,Derek和</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-02-20-295\" target=\"_blank\">blueflameli.github.io/posts/2020-02-20-295</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-02-20-295",
+            "title": "敌兵布阵（HDOJ 1166）",
+            "date_modified": "2020-02-20T00:00:00.000Z",
+            "date_published": "2021-03-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-02-21-296",
+            "content_html": "<h2>Problem Description</h2>\n<p>N个气球排成一排，从左到右依次编号为1,2,3....N.每次给定2个整数a b(a &lt;= b),lele便为骑上他的“小飞鸽&quot;牌电动车从气球a开始</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-02-21-296\" target=\"_blank\">blueflameli.github.io/posts/2020-02-21-296</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-02-21-296",
+            "title": "Color the ball(HDOJ 1556)",
+            "date_modified": "2020-02-21T00:00:00.000Z",
+            "date_published": "2021-03-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-02-22-297",
+            "content_html": "<h2>Problem Description</h2>\n<p>During Frosh Week, students play various fun games to get to know each oth</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-02-22-297\" target=\"_blank\">blueflameli.github.io/posts/2020-02-22-297</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-02-22-297",
+            "title": "Frosh Week(HDOJ 3743)",
+            "date_modified": "2020-02-22T00:00:00.000Z",
+            "date_published": "2021-03-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-02-22-298",
+            "content_html": "<h2>Problem Description</h2>\n<p>Now I am leaving hust acm. In the past two and half years, I learned so ma</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-02-22-298\" target=\"_blank\">blueflameli.github.io/posts/2020-02-22-298</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-02-22-298",
+            "title": "See you~（HDOJ 1892）",
+            "date_modified": "2020-02-22T00:00:00.000Z",
+            "date_published": "2021-03-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-02-23-300",
+            "content_html": "<h2>Problem Description</h2>\n<p>很多学校流行一种比较的习惯。老师们很喜欢询问，从某某到某某当中，分数最高的是多少。<br>\n这让很多学生很反感。</p>\n<p>不管你喜不喜欢，现在需要你做的是，就是按</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-02-23-300\" target=\"_blank\">blueflameli.github.io/posts/2020-02-23-300</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-02-23-300",
+            "title": "I Hate It（HDOJ 1754）",
+            "date_modified": "2020-02-23T00:00:00.000Z",
+            "date_published": "2021-03-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-02-26-301",
+            "content_html": "<h2>Problem Description</h2>\n<p>Let A1, A2, ... , AN be N elements. You need to deal with two kinds of ope</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-02-26-301\" target=\"_blank\">blueflameli.github.io/posts/2020-02-26-301</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-02-26-301",
+            "title": "A Simple Problem with Integers(HDOJ 4267)",
+            "date_modified": "2020-02-26T00:00:00.000Z",
+            "date_published": "2021-03-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-02-27-303",
+            "content_html": "<h2>Problem Description</h2>\n<p>Given n integers.<br>\nYou have two operations:<br>\nU A B: replace the Ath number b</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-02-27-303\" target=\"_blank\">blueflameli.github.io/posts/2020-02-27-303</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-02-27-303",
+            "title": "LCIS（HDOJ 3308）",
+            "date_modified": "2020-02-27T00:00:00.000Z",
+            "date_published": "2021-03-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-03-07-305",
+            "content_html": "<h2>Misc</h2>\n<h3>Good Video</h3>\n<p>解压以后是一个未知的文件，根据标题应该是视频文件。用Windows Media Player可以播放，file分析了一下是Matroska D<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-03-07-305\" target=\"_blank\">blueflameli.github.io/posts/2020-03-07-305</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-03-07-305",
+            "title": "HGAME2020 Final WriteUp",
+            "date_modified": "2020-03-07T00:00:00.000Z",
+            "date_published": "2021-03-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2021-02-28-421",
+            "content_html": "<p>原来博客的数据迁移到了新的博客系统，但所有文章里的图片链接全都挂了，因为原来的网站已经被我删了，原来的路径也访问不到了，我要一个个替换新链接了。。。</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2021-02-28-421\" target=\"_blank\">blueflameli.github.io/posts/2021-02-28-421</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2021-02-28-421",
+            "title": "图片寄了",
+            "date_modified": "2021-02-28T00:00:00.000Z",
+            "date_published": "2021-03-07T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-03-19-308",
+            "content_html": "<h2>Problem Description</h2>\n<p>King Arthur is an narcissist who intends to spare no coins to celebrate hi</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-03-19-308\" target=\"_blank\">blueflameli.github.io/posts/2020-03-19-308</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-03-19-308",
+            "title": "King Arthur's Birthday Celebration(POJ 3682)",
+            "date_modified": "2020-03-19T00:00:00.000Z",
+            "date_published": "2021-03-06T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-03-21-309",
+            "content_html": "<h2>Problem Description</h2>\n<p>Akemi Homura is a Mahou Shoujo (Puella Magi/Magical Girl).</p>\n<p>Homura wants t</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-03-21-309\" target=\"_blank\">blueflameli.github.io/posts/2020-03-21-309</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-03-21-309",
+            "title": "LOOPS(HDOJ 3853)",
+            "date_modified": "2020-03-21T00:00:00.000Z",
+            "date_published": "2021-03-06T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-03-22-310",
+            "content_html": "<h2>Problem Description</h2>\n<p>Some people believe that there are three cycles in a person's life that st</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-03-22-310\" target=\"_blank\">blueflameli.github.io/posts/2020-03-22-310</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-03-22-310",
+            "title": "Biorhythms（HDOj 1370）",
+            "date_modified": "2020-03-22T00:00:00.000Z",
+            "date_published": "2021-03-06T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-04-11-329",
+            "content_html": "<h2>Problem Description</h2>\n<p>Every time it rains on Farmer John's fields, a pond forms over Bessie's fa</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-04-11-329\" target=\"_blank\">blueflameli.github.io/posts/2020-04-11-329</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-04-11-329",
+            "title": "Drainage Ditches(HDOJ 1532)",
+            "date_modified": "2020-04-11T00:00:00.000Z",
+            "date_published": "2021-03-06T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-04-12-330",
+            "content_html": "<h2>Problem Description</h2>\n<p>Network flow is a well-known difficult problem for ACMers. Given a graph,</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-04-12-330\" target=\"_blank\">blueflameli.github.io/posts/2020-04-12-330</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-04-12-330",
+            "title": "Flow Problem（HDOJ 3549）",
+            "date_modified": "2020-04-12T00:00:00.000Z",
+            "date_published": "2021-03-06T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-04-12-331",
+            "content_html": "<h2>Problem Description</h2>\n<p>Our geometry princess XMM has stoped her study in computational geometry t</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-04-12-331\" target=\"_blank\">blueflameli.github.io/posts/2020-04-12-331</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-04-12-331",
+            "title": "Task Schedule（HDOJ 3572）",
+            "date_modified": "2020-04-12T00:00:00.000Z",
+            "date_published": "2021-03-06T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-05-03-333",
+            "content_html": "<p>[info]五一假期稍微空了一些，总算是有时间做一会儿专题训练了。网络流还没做完，倍增lca就来了，什么时候能肝完呢。。。[/info]</p>\n<h2>Problem Description</h2>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-05-03-333\" target=\"_blank\">blueflameli.github.io/posts/2020-05-03-333</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-05-03-333",
+            "title": "CD操作(HDOJ 4547)",
+            "date_modified": "2020-05-03T00:00:00.000Z",
+            "date_published": "2021-03-06T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-07-19-358",
+            "content_html": "<p>opencv是计算机视觉和机器学习常用的软件库之一，支持多个平台，对多种语言提供接口，我的学习环境是Win10+VS2019+C++</p>\n<h2>安装与配置</h2>\n<p>先上[opencv官网](https://</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-07-19-358\" target=\"_blank\">blueflameli.github.io/posts/2020-07-19-358</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-07-19-358",
+            "title": "OpenCV学习笔记（一）",
+            "date_modified": "2020-07-19T00:00:00.000Z",
+            "date_published": "2021-03-06T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-07-29-381",
+            "content_html": "<h1>HSV 通道的二值化</h1>\n<p>很简单，调一个inrange函数即可，函数原型：</p>\n<pre><code class=\"language-cpp\">void inRange(InputArray src, InputArray lowerb, Inpu</code></pre>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-07-29-381\" target=\"_blank\">blueflameli.github.io/posts/2020-07-29-381</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-07-29-381",
+            "title": "OpenCV学习笔记（二）",
+            "date_modified": "2020-07-29T00:00:00.000Z",
+            "date_published": "2021-03-06T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-08-07-397",
+            "content_html": "<h2>仿射变换</h2>\n<p>对于平面区域，有两种方式的几何转换：一种是基于2×3矩阵进行的变换，叫仿射变换；另一种是基于3×3矩阵进行的变换，叫透视变换或者单应性映射。关于仿射变换和透射变换的矩阵变换，我们不</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-08-07-397\" target=\"_blank\">blueflameli.github.io/posts/2020-08-07-397</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-08-07-397",
+            "title": "OpenCV学习笔记（三）",
+            "date_modified": "2020-08-07T00:00:00.000Z",
+            "date_published": "2021-03-02T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-10-10-410",
+            "content_html": "<p>[info]开学后的第一次更新，好像欠了好久了。。。不过反正也没人看，拖更也问题不大[/info]</p>\n<h2>不同服务器之间的迁移</h2>\n<p>首先，如果你是一台服务器迁移到另一台服务器，那么挺简单的，宝塔自带</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-10-10-410\" target=\"_blank\">blueflameli.github.io/posts/2020-10-10-410</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-10-10-410",
+            "title": "宝塔数据迁移",
+            "date_modified": "2020-10-10T00:00:00.000Z",
+            "date_published": "2021-03-02T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2021-02-28-419",
+            "content_html": "<br/><p>访问 <a href=\"blueflameli.github.io/posts/2021-02-28-419\" target=\"_blank\">blueflameli.github.io/posts/2021-02-28-419</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2021-02-28-419",
+            "title": "CTF",
+            "date_modified": "2021-02-28T00:00:00.000Z",
+            "date_published": "2021-02-28T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2021-02-28-420",
+            "content_html": "<h2>综合</h2>\n<p>网站中包含大多编码的解码。<br>\n<a href=\"http://web2hack.org/xssee/\">http://web2hack.org/xssee/</a><br>\n<a href=\"https://www.sojson.com/\">https://www.sojson.com/</a><br>\n<a href=\"http://web.chacuo.net/\">http://web.chacuo.net/</a></p>\n<h2></h2>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2021-02-28-420\" target=\"_blank\">blueflameli.github.io/posts/2021-02-28-420</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2021-02-28-420",
+            "title": "常见密码解密网站",
+            "date_modified": "2021-02-28T00:00:00.000Z",
+            "date_published": "2021-02-28T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-10-16-416",
+            "content_html": "<p>评论功能开启啦，本贴顺便用来测试。</p>\n<p>输入UID自动获取头像和昵称的功能，好像出了点问题，如果输入了UID就无法提交评论，可能是api的问题，暂时无法修复</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-10-16-416\" target=\"_blank\">blueflameli.github.io/posts/2020-10-16-416</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-10-16-416",
+            "title": "评论开启",
+            "date_modified": "2020-10-16T00:00:00.000Z",
+            "date_published": "2020-10-17T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-01-14-153",
+            "content_html": "<p>寒假开始啦，不过我更忙了，但我决定还是要更新一下，正好最近我参加了一个区块链培训，趁此机会开启新的板块学习笔记，我会将一些觉得有用的学习经历记录在这里。</p>\n<p>哦对了，忘了告诉大家，博客加了一个2</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-01-14-153\" target=\"_blank\">blueflameli.github.io/posts/2020-01-14-153</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-01-14-153",
+            "title": "寒假开始",
+            "date_modified": "2020-01-14T00:00:00.000Z",
+            "date_published": "2020-10-16T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-01-20-182",
+            "content_html": "<h2>Problem Description</h2>\n<pre><code>Ignatius被魔王抓走了,有一天魔王出差去了,这可是Ignatius逃亡的好机会.\n\n魔王住在一个城堡里,城堡是一个A*B*C的立方</code></pre>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-01-20-182\" target=\"_blank\">blueflameli.github.io/posts/2020-01-20-182</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-01-20-182",
+            "title": "胜利大逃亡（HDOJ 1253）",
+            "date_modified": "2020-01-20T00:00:00.000Z",
+            "date_published": "2020-10-16T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-01-22-195",
+            "content_html": "<h2>Problem Description</h2>\n<pre><code>1967年，美国著名的社会学家斯坦利·米尔格兰姆提出了一个名为“小世界现象(small world phenomenon)”的著名假说</code></pre>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-01-22-195\" target=\"_blank\">blueflameli.github.io/posts/2020-01-22-195</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-01-22-195",
+            "title": "六度分离（HDOJ 1869）",
+            "date_modified": "2020-01-22T00:00:00.000Z",
+            "date_published": "2020-10-16T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-02-27-302",
+            "content_html": "<h2>Problem Description</h2>\n<pre><code>In the game of DotA, Pudge’s meat hook is actually the most horrible</code></pre>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-02-27-302\" target=\"_blank\">blueflameli.github.io/posts/2020-02-27-302</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-02-27-302",
+            "title": "Just a Hook(HDOJ 1698)",
+            "date_modified": "2020-02-27T00:00:00.000Z",
+            "date_published": "2020-10-16T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-06-13-344",
+            "content_html": "<p>学了一年多的NOIP，又学了近一年的ACM，终究还是被淘汰了，虽然早就已经预见这一点，不过还是没想到来的这么快。两年多的时间，还是收获了许多，算法竞赛也帮助我找到了我未来的路，唯一遗憾的就是没有什么</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-06-13-344\" target=\"_blank\">blueflameli.github.io/posts/2020-06-13-344</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-06-13-344",
+            "title": "ACM",
+            "date_modified": "2020-06-13T00:00:00.000Z",
+            "date_published": "2020-10-16T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-06-14-346",
+            "content_html": "<p>之前因为要挂qq机器人，所以一直用的windows的服务器，最近wordpress更新后，网站速度慢了很多，所以为了更好的提升网站性能，我把机器人挂到了其他地方，然后把服务器改成linux的，所以</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-06-14-346\" target=\"_blank\">blueflameli.github.io/posts/2020-06-14-346</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-06-14-346",
+            "title": "服务器迁移",
+            "date_modified": "2020-06-14T00:00:00.000Z",
+            "date_published": "2020-10-16T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-06-14-348",
+            "content_html": "<p>数据迁移完了，换成CentOS后，访问速度明显提升了许多，不过文章图片有些无法显示，今天有空研究下，过两天分享一下宝塔如何迁移网站数据。</p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-06-14-348\" target=\"_blank\">blueflameli.github.io/posts/2020-06-14-348</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-06-14-348",
+            "title": "数据迁移",
+            "date_modified": "2020-06-14T00:00:00.000Z",
+            "date_published": "2020-10-16T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "blueflameli.github.io/posts/2020-06-15-357",
+            "content_html": "<p>图片问题修复了，中文编码的问题。。。到时候写文章的时候一块讲一下，避免大家重蹈覆辙。。。</p>\n<p>我是不是之前说过期末前最后一次更新了？<s>啪啪打脸</s></p>\n<br/><p>访问 <a href=\"blueflameli.github.io/posts/2020-06-15-357\" target=\"_blank\">blueflameli.github.io/posts/2020-06-15-357</a> 阅读全文。</p>",
+            "url": "blueflameli.github.io/posts/2020-06-15-357",
+            "title": "图片问题修复",
+            "date_modified": "2020-06-15T00:00:00.000Z",
+            "date_published": "2020-10-16T00:00:00.000Z",
+            "author": {
+                "name": "Blueflame",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}
