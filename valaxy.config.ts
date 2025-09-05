@@ -4,7 +4,7 @@ import { addonMeting } from 'valaxy-addon-meting'
 import { addonBangumi } from 'valaxy-addon-bangumi'
 import { addonVercount } from 'valaxy-addon-vercount'
 import { addonHitokoto } from 'valaxy-addon-hitokoto'
-import pkg from './package.json'
+import { addonWaline } from 'valaxy-addon-waline'
 // add icons what you will need
 const safelist = [
   'i-ri-home-line',
@@ -239,6 +239,11 @@ export default defineValaxyConfig<ThemeUserConfig>({
 
   unocss: { safelist },
   addons: [
+    addonWaline({
+      serverURL: 'https://waline.blueflame.org.cn',
+      pageview: true,
+      comment: true,
+    }),
     addonMeting({
       global: true,
       props: {

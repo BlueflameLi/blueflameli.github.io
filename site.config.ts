@@ -38,7 +38,31 @@ export default defineSiteConfig({
     },
   ],
 
+  comment: {
+    enable: true,
+  },
+
+  encrypt: {
+    enable: true,
+  },
+
+  vanillaLazyload: {
+    enable: true,
+  },
+
+  mediumZoom: { enable: true },
+
   search: {
     enable: false,
+  },
+
+  statistics: {
+    enable: true,
+    readTime: {
+      speed: {
+        cn: 300,
+        en: 200,
+      },
+    },
   },
 })
