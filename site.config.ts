@@ -1,7 +1,7 @@
 import { defineSiteConfig } from 'valaxy'
 
 export default defineSiteConfig({
-  url: 'blueflameli.github.io',
+  url: 'blueflame.org.cn',
   lang: 'zh-CN',
   title: 'Blueflame的小站',
   subtitle: '又一个划水的站点',
