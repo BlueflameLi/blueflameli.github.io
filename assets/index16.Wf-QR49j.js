@@ -1,0 +1,1 @@
+import{D as e,I as t,L as n}from"./theme.Dd_xa-I-.js";var r=e({cast(e){return typeof e==`string`&&(e={name:e}),e},defaults:{"@type":`ListItem`},resolve(e,r){return typeof e.item==`string`?e.item=n(r.meta.host,e.item):typeof e.item==`object`&&(e.item=t(e.item,r)),e}});export{r as listItemResolver};

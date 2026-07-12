@@ -1,0 +1,1 @@
+import{D as e,I as t,O as n,R as r,w as i}from"./theme.Dd_xa-I-.js";import{o as a}from"./index3.nNT_ceTL.js";var o=e({defaults:{"@type":`Course`},resolve(e,n){return e.provider=t(e.provider,n,a,{root:!0}),e},resolveRootNode(e,{find:t}){let a=t(i);return a&&r(e,`provider`,n(a)),e}});export{o as courseResolver};

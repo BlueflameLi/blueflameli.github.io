@@ -1,0 +1,1 @@
+import{D as e}from"./theme.Dd_xa-I-.js";var t=e({defaults:{"@type":`OpeningHoursSpecification`,opens:`00:00`,closes:`23:59`}});export{t as openingHoursResolver};
